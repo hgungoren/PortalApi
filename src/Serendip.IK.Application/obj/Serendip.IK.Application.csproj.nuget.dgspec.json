@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Application\\Serendip.IK.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj",
+        "projectName": "SuratKargo.Core",
+        "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj",
+        "packagesPath": "C:\\Users\\HuseyinGUNGOREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HuseyinGUNGOREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/3RcB6HU3lZZfKaOCiqIPmdAwhlH33W92si5SW4vSQFZl2dH1G2/api": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Application\\Serendip.IK.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Application\\Serendip.IK.Application.csproj",
+        "projectName": "Serendip.IK.Application",
+        "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Application\\Serendip.IK.Application.csproj",
+        "packagesPath": "C:\\Users\\HuseyinGUNGOREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HuseyinGUNGOREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/3RcB6HU3lZZfKaOCiqIPmdAwhlH33W92si5SW4vSQFZl2dH1G2/api": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj": {
+                "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj"
+              },
+              "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj": {
+                "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj"
+              },
+              "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.EntityFrameworkCore\\Serendip.IK.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.EntityFrameworkCore\\Serendip.IK.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Abp": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Abp.HangFire.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Abp.MailKit": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.0.38, )"
+            },
+            "Scriban": {
+              "target": "Package",
+              "version": "[4.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj",
+        "projectName": "Serendip.IK.Core",
+        "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj",
+        "packagesPath": "C:\\Users\\HuseyinGUNGOREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HuseyinGUNGOREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/3RcB6HU3lZZfKaOCiqIPmdAwhlH33W92si5SW4vSQFZl2dH1G2/api": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj": {
+                "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\shared\\SuratKargo.Core\\SuratKargo.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Abp.AutoMapper": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Abp.MailKit": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            },
+            "Abp.Zero.Ldap": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            },
+            "Abp.ZeroCore.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.3.0, )"
+            },
+            "Castle.Windsor.MsDependencyInjection": {
+              "target": "Package",
+              "version": "[3.3.1, )"
+            },
+            "Fare": {
+              "target": "Package",
+              "version": "[2.1.2, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.EntityFrameworkCore\\Serendip.IK.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.EntityFrameworkCore\\Serendip.IK.EntityFrameworkCore.csproj",
+        "projectName": "Serendip.IK.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.EntityFrameworkCore\\Serendip.IK.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\HuseyinGUNGOREN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\Offline Packages",
+          "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\HuseyinGUNGOREN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 21.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 21.2\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/3RcB6HU3lZZfKaOCiqIPmdAwhlH33W92si5SW4vSQFZl2dH1G2/api": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj": {
+                "projectPath": "C:\\Users\\HuseyinGUNGOREN\\OneDrive - Toksoz Grup\\Masaüstü\\PROJECTS\\SK.Portal.Api\\src\\Serendip.IK.Core\\Serendip.IK.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "portable-net45+win8+wp8+wpa81",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

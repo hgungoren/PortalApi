@@ -1,0 +1,861 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="tr">
+	<texts>
+		<text name="Dashboard" value="Anasayfa" />
+		<text name="NormCount" value="Norm Sayısı" />
+		<text name="EmployeeCount" value="Personel Sayısı" />
+		<text name="NormIncreaseRequest" value="Norm Arttırma Sayısı" />
+		<text name="NormFillRequest" value="Norm Doldurma Sayısı" />
+		<text name="CanceledNormRequest" value="İptal Edilen Norm Talebi" />
+		<text name="PendingNormIncrease" value="Bekleyen Norm Arttırma" />
+		<text name="AcceptedNormIncreasing" value="Kabul Edilen Norm Arrtırma" />
+		<text name="RequestNorm" value="Norm Talep" />
+		<text name="RegionalOffices" value="Bölge Müdürlükleri" />
+		<text name="DamageCompensation" value="Hasar Tazmin" />
+
+		<text name="Detail" value="Detay" />
+		<text name="WeeklyStatistics" value="Haftalık İstatistik" />
+		<text name="CreationTime" value="Oluşturma Tarihi" />
+		<text name="ModifiedTime" value="Güncelleme Tarihi" />
+		<text name="Position" value="Pozisyon" />
+		<text name="Add" value="Ekle" />
+		<text name="Close" value="Kapat" />
+		<text name="ConfirmDelete" value="Bu Kaydı silmek istiyormusunuz?" />
+		<text name="UniqSelect" value="Lütfen farklı bir pozisyon seçiniz" />
+
+		<text name="NormOpening" value="Norm Açığı" />
+		<text name="PositionSelect" value="Pozisyon Seçimi" />
+		<text name="PleaseSelect" value="Lütfen Seçiniz" />
+		<text name="Branches" value="Şubeler" />
+		<text name="NormRequestReason" value="Norm Talep Nedeni" />
+		<text name="RequestType" value="Talep Türü" />
+		<text name="Description" value="Açıklama" />
+		<text name="AuthoritiesHierarchy" value="Onay Hiyerarşisi" />
+		<text name="Next" value="İleri" />
+		<text name="Send" value="Gönder" />
+		<text name="Areas" value="Bölgeler" />
+		<text name="Area" value="Bölge" />
+		<text name="Employee" value="Personel" />
+		<text name="NewPosition" value="Yeni Pozisyon" />
+		<text name="EmployeesList" value="Personel Listesi" />
+		<text name="Reject" value="Ret" />
+		<text name="Accept" value="Onay" />
+		<text name="RejectRequestDescriptionLabel" value="Lütfen Red Nedeninizi Yazınız" />
+		<text name="RequestRejectForm" value="Talep Red Formu" />
+		<text name="WellcomeMessage" value="Sürat Kargo" />
+		<text name="Type" value="Tip" />
+
+		<text name="KSube" value="İnsan Kaynakları / Şube" />
+		<text name="Serendip.IK.LongDate" value="Uzun Tarih" />
+
+		<text name="Monday"    value="Pazartesi" />
+		<text name="Tuesday"   value="Salı" />
+		<text name="Wednesday" value="Çarşamba" />
+		<text name="Thursday"  value="Perşembe" />
+		<text name="Friday"    value="Cuma" />
+		<text name="Saturday"  value="Cumartesi" />
+		<text name="Sunday"    value="Pazar" />
+
+
+
+
+		<text name="Request"   value="Talep" />
+		<text name="Approved"  value="Onaylanmış" />
+		<text name="Approve"   value="Onayla" />
+
+		<text name="AddedNormRequest" value="Norm Ekleme İsteği" />
+		<text name="CompanyCode" value="İşyeri Kodu" />
+
+		<text name="Date" value="Tarih" />
+		<text name="Waiting" value="Bekliyor" />
+		<text name="Status" value="Durum" />
+		<text name="MadeChange" value="Değişiklik Yap" />
+
+
+		<text name="KPersonel" value="Personel" />
+		<text name="KSubeNorm" value="Sube Norm" />
+		<text name="KNormDetail" value="Norm Detay" />
+		<text name="KBolge" value="İnsan Kaynakları / Bölge" />
+		<text name="KInkaLookUpTable" value="Inka Look Up Table" />
+		<text name="KHierarchy" value="Hiyerarşi" />
+		<text name="KSubeDetay" value="Şube Detay" />
+		<text name="UnitDetail" value="Birim Detayı" />
+		<text name="NormOperations" value="Norm İşlemleri" />
+
+		<text name="Mail_Notification_Title">Yeni bir bildiriminiz var!</text>
+		<text name="Mail_Notification_ViewDetail">Detayı İncele</text>
+		<text name="Mail_Notification_Unsubscribe">Bildirim Ayarları</text>
+
+
+		<text name="TotalNormFillingRequestWeeklyStatistics">Toplam Yapılan Norm Doldurma Talebi Haftalık İstatistik</text>
+		<text name="TotalNormUpdateRequestWeeklyStatistics">Toplam Yapılan Norm Güncelleme Talebi Haftalık İstatistik</text>
+
+		<text name="NormDetailPanel" value="Norm Talep Listesi" />
+		<text name="NormInsertOperation" value="Norm Giriş İşlemleri" />
+		<text name="UnknownError" value="Beklenmedik Hata" />
+
+
+		<text name="Filter" value="Arama       " />
+		<text name="Operations" value="İşlemler" />
+		<text name="HierarchyTransfer">IK Hiyerarşi</text>
+
+
+
+
+
+
+
+
+
+
+
+		<!-- Notification Messages -->
+		<text name="YouAreNotAuthorizedToAddRecordsTitle"       value="Yetki Hatası"/>
+		<text name="YouAreNotAuthorizedToAddRecordsDescription" value="Kayıt ekleme yetkiniz bulunmamaktadır"/>
+
+
+		<!-- Tablo Sayfalama-->
+		<text name="page" value="Sayfa" />
+
+		<!--Hata Sayfaları-->
+		<text name="error.code.404"                              value="Üzgünüz, ziyaret ettiğiniz sayfa mevcut değil" />
+		<text name="error.code.401"                              value="Üzgünüz, bu sayfaya erişiminiz yok" />
+		<text name="error.code.500"                              value="Üzgünüz, sunucuda beklenmedik bir hata oluştu" />
+		<text name="error.page.button"                           value="Ana Sayfa'ya Dön" />
+
+
+
+		<!-- Role -->
+		<text name="role.create"                   value="Role Ekle" />
+		<text name="role.update"                   value="Role Düzenle" />
+		<text name="role.view"                     value="Role Listesi" />
+		<text name="role.delete"                   value="Role Sil" />
+
+		<!-- Rol Tablo Başlıkları -->
+		<text name="table.role.rolename"           value="Rol Adı" />
+		<text name="table.role.displayname"        value="Görünen Ad" />
+		<text name="table.role.transactions"       value="İşlemler" />
+		<text name="table.role.description"        value="Açıklama" />
+
+
+		<!-- Norm -->
+		<text name="knorm.create"         value="Norm Ekle" />
+		<text name="knorm.created"        value="Norm Ekle" />
+		<text name="knorm.statuschange"   value="Norm Durum Güncelle" />
+		<text name="knorm.view"           value="Norm Listesi" />
+		<text name="KNorm"                value="Norm" />
+		<text name="knorm.changed"        value="Norm Değişti" />
+		<text name="knorm.detail"         value="Detay" />
+		<text name="knorm.reject"         value="İptal" />
+		<text name="knorm.approve"        value="Onay" />
+		<text name="DoYouWantToConfirm"   value="Onaylamak İstiyormusunuz?" />
+		<text name="CancelDoYouWantToConfirm"   value="İptal İşlemini Onaylamak İstiyormusunuz?" />
+
+		<text name="NormRejectNotificationMessageTitle"         value="Norm Talebi İptal Bildirimi" />
+		<text name="NormRejectNotificationMessageDescription"   value="Norm Talebi İptal Edildi" />
+		<text name="NormCreateNotificationMessageTitle"         value="Norm Kayıt Giriş Bildirimi" />
+		<text name="NormCreateNotificationMessageDescription"   value="Norm Başarıyla Eklendi" />
+		<text name="NormApproveNotificationMessageTitle"        value="Norm Talebi Onaylama Bildirimi" />
+		<text name="NormApproveNotificationMessageDescription"  value="Norm Talebi Başarıyla Onaylanmıştır" />
+
+
+		<!-- Norm Talep Türü-->
+		<text name="NormDoldurma"    value="Norm Doldurma" />
+		<text name="NormArttır"      value="Norm Arttır" />
+		<text name="NormKaydır"      value="Norm Kaydır" />
+		<text name="Norm_Doldurma"   value="Norm Doldurma" />
+		<text name="Norm_Arttir"     value="Norm Arttır" />
+		<text name="Norm_Kaydir"     value="Norm Kaydır" />
+
+
+		<!-- Norm Tablo Başlıkları -->
+
+		<text name="table.norm.requestdate"                                   value="Talep Tarihi" />
+		<text name="table.norm.requeststatus"                                 value="Talep Durumu" />
+		<text name="table.norm.position"                                      value="Pozisyon" />
+		<text name="table.norm.requestreason"                                 value="Talep Nedeni" />
+		<text name="table.norm.requesttype"                                   value="Talep Türü" />
+		<text name="table.norm.transactions"                                  value="İşlemler" />
+		<text name="table.norm.area.name"                                     value="Bölge Adı" />
+		<text name="table.norm.branch.name"                                   value="Şube Adı" />
+		<text name="table.norm.newposition"                                   value="Yeni Pozisyon" />
+		<text name="table.norm.leaving.staff"                                 value="Ayrılan Personel" />
+		<text name="table.norm.description"                                   value="Açıklama" />
+		<text name="table.norm.creator.user.name"                             value="Talep Eden" />
+		<text name="Ayrilma"                                                  value="Ayrılma" />
+
+
+		<!-- Hiyerarşi -->
+		<text name="khierarchy.view"                                        value="Hiyerarşi" />
+		<text name="khierarchy.status.change"                               value="Hiyerarşi Durum Değişikliği" />
+		<text name="khierarchy.list"                                        value="Hiyerarşi Listesi" />
+		<text name="khierarchy.edit"                                        value="Hiyerarşi Düzenle" />
+		<!-- Home -->
+		<text name="Home"                                                   value="Kullanıcı Sayfası" />
+		<text name="home.view"                                              value="Kullanıcı Sayfası" />
+
+
+		<!-- Dashboard -->
+		<text name="dashboard.view"                                         value="Yönetim" />
+
+
+
+
+
+		<text name="knorm.gettotalnormfillingrequest"                       value="Toplam Yapılan Norm Doldurma Talebi" />
+		<text name="knorm.getpendingnormfillrequest"                        value="Bekleyen Norm Doldurma Talebi" />
+		<text name="knorm.getacceptednormfillrequest"                       value="Kabul Edilen Norm Doldurma Talebi" />
+		<text name="knorm.getcancelednormfillrequest"                       value="İptal Edilen Norm Doldurma Talebi" />
+		<text name="knorm.gettotalnormupdaterequest"                        value="Toplam Yapılan Norm Güncelleme Talebi" />
+		<text name="knorm.getpendingnormupdaterequest"                      value="Bekleyen Norm Güncelleme Talebi" />
+		<text name="knorm.getacceptednormupdaterequest"                     value="Kabul Edilen Norm Güncelleme Talebi" />
+		<text name="knorm.getcancelednormupdaterequest"                     value="İptal Edilen Norm Güncelleme Talebi" />
+
+		<text name="InsufficientNormCount"                                  value="Yetersiz Norm Sayısı" />
+		<text name="TotalNormUpdateRequest"                                 value="Toplam Yapılan Norm Güncelleme Talebi" />
+		<text name="PendingNormFillRequest"                                 value="Bekleyen Norm Doldurma Talebi" />
+		<text name="TotalNormFillingRequest"                                value="Toplam Yapılan Norm Doldurma Talebi" />
+		<text name="AcceptedNormFillRequest"                                value="Kabul Edilen Norm Doldurma Talebi" />
+		<text name="CanceledNormFillRequest"                                value="İptal Edilen Norm Doldurma Talebi" />
+		<text name="PendingNormUpdateRequest"                               value="Bekleyen Norm Güncelleme Talebi" />
+		<text name="AcceptedNormUpdateRequest"                              value="Kabul Edilen Norm Güncelleme Talebi" />
+		<text name="CanceledNormUpdateRequest"                              value="İptal Edilen Norm Güncelleme Talebi" />
+		<text name="NormRequesDetailTable"                                  value="Norm Talep Detay Tablosu" />
+
+
+		<!-- Şube Detay Yetkilendirme -->
+		<text name="pages.kbranch_detail"                                   value="Şube Detay" />
+		<text name="items.kbranch_detail.employee_norm_table"               value="Personel Norm Listesi" />
+		<text name="items.kbranch_detail.employee_table"                    value="Personel Listesi" />
+
+		<text name="items.kbranch_detail.norm_table"                        value="Norm Talep Listesi" />
+		<text name="subitems.kbranch_detail.norm_table.button"              value="Norm İşlemleri Butonu" />
+		<text name="subitems.kbranch_detail.norm_table.list"                value="Norm Talep Tablosu" />
+
+
+		<!-- Şube -->
+		<text name="ksube.view"                                             value="Şube Listesi" />
+		<text name="ksube.detail"                                           value="Şube Detay" />
+		<text name="ksubedetail.employee.list"                              value="Personel Listesi" />
+		<text name="ksubedetail.norm.request.list"                          value="Norm Talep Listesi" />
+		<text name="ksubedetail.norm.employee.list"                         value="Norm Personel Listesi" />
+
+		<!-- Şube Tablo Başlıkları -->
+
+		<text name="table.branch.duty"                                        value="Görev" />
+		<text name="table.branch.employeecount"                               value="Personel Sayısı" />
+		<text name="table.branch.normcount"                                   value="Norm Sayısı" />
+		<text name="table.branch.normgap"                                     value="Norm Açığı" />
+		<text name="table.branch.name"                                        value="Şube Adı" />
+		<text name="table.branch.type"                                        value="Şube Tipi" />
+		<text name="table.branch.transactions"                                value="İşlemler" />
+		<text name="table.branch.areaname"                                    value="Bölge Adı"/>
+
+
+		<!-- KSube Norm -->
+		<text name="pages.ksubenorm"                                        value="Şube Norm" />
+		<text name="ksubenorm.operation"                                    value="Norm Giriş" />
+
+		<text name="ksubenorm.create"                                       value="Şube Norm Ekle" />
+		<text name="ksubenorm.edit"                                         value="Şube Norm Düzenle" />
+		<text name="ksubenorm.delete"                                       value="Şube Norm Sil" />
+		<text name="ksubenorm.view"                                         value="Şube Norm Listesi" />
+		<text name="NormCreate"                                             value="Norm Giriş" />
+
+
+
+		<!-- Yönetim -->
+		<text name="Admin"                                                   value="Yönetici" />
+
+		<!-- User -->
+		<text name="Pages.User"                                              value="Kullanıcılar" />
+		<text name="user.activation"                                         value="Kullanıcı Aktivasyon" />
+		<text name="user.delete"                                             value="Kullanıcı Sil" />
+		<text name="user.create"                                             value="Kullanıcı Ekle" />
+		<text name="user.update"                                             value="Kullanıcı Güncelle" />
+		<text name="user.view"                                               value="Kullanıcı Listesi" />
+		<text name="user.changelanguage"                                     value="Kullanıcı Dil Değiştir" />
+		<text name="user.changepassword"                                     value="Kullanıcı Şifre Değiştir" />
+		<text name="user.resetpassword"                                      value="Kullanıcı Şifre Sıfırla" />
+		<text name="TheInputIsNotValidEMail"                                 value="Değer geçerli bir E-posta değildir" />
+		<text name="NoSelectData"                                            value="Veri Bulunmamaktadır" />
+		<text name="TwoPasswordsThatYouEnterIsInconsistent"                  value="Girdiğiniz iki şifre tutarsız!" />
+
+		<!-- Kullanıcı Tablo Başlıkları -->
+		<text name="table.user.username"                           value="Kullanıcı Adı" />
+		<text name="table.user.name"                               value="Adı" />
+		<text name="table.user.surname"                            value="Soyadı" />
+		<text name="table.user.duty"                               value="Görevi" />
+		<text name="table.user.email"                              value="E-Posta Adresi" />
+		<text name="table.user.status"                             value="Durumu" />
+		<text name="table.user.transactions"                       value="İşlemler" />
+
+
+		<!-- Table -->
+		<text name="NoData"                                      value="Aradığınız Kritere Uygun Veri Bulunamadı" />
+
+		<!-- Personel -->
+		<text name="Pages_KPersonel"                             value="Personeller" />
+		<text name="kpersonel.view"                              value="Personel Listesi" />
+
+		<!-- Personel Tablo Başlıkları -->
+		<text name="table.employee.name"                         value="Adı" />
+		<text name="table.employee.surname"                      value="Soyadı" />
+		<text name="table.employee.duty"                         value="Görevi" />
+		<text name="table.employee.registrationnumber"           value="Sicil No" />
+
+
+
+
+
+
+		<!-- Bölge -->
+		<text name="Pages_KBolge"                                value="Bölgeler" />
+		<text name="kbolge.view"                                 value="Bölgeler" />
+		<text name="kbolge.areas.list"                           value="Bölge Listesi" />
+		<text name="YouAreNotAuthorizedForThisRegion"            value="Bu bölge için yetkiniz bulunmamaktadır" />
+		<text name="kbolge.norm.operation"                       value="Norm Giriş" />
+		<text name="kbolge.norm.create"                          value="Bölge Norm Ekle" />
+		<text name="kbolge.norm.edit"                            value="Bölge Norm Düzenle" />
+		<text name="kbolge.norm.delete"                          value="Bölge Norm Sil" />
+		<text name="kbolge.norm.view"                            value="Bölge Norm Listesi" />
+
+
+
+
+
+
+		<!-- Bölge Tablo Başlıkları -->
+		<text name="table.area.name"                   value="Bölge Adı" />
+		<text name="table.area.type"                   value="Bölge Tipi" />
+		<text name="table.area.employeecount"          value="Personel Sayısı" />
+		<text name="table.area.normcount"              value="Norm Sayısı" />
+		<text name="table.area.normgap"                value="Norm Açığı" />
+		<text name="table.area.transactions"           value="İşlemler" />
+		<text name="table.area.duty"                   value="Görevi" />
+
+
+
+
+
+
+		<!-- Kullanıcı Tablosu -->
+		<text name="Title"                              value="Görevi" />
+		<text name="IsActiveStatus"                     value="Durumu" />
+		<text name="Active"                             value="Aktif" />
+		<text name="Passive"                            value="Pasif" />
+		<text name="UserDetail"                         value="Kullanıcı Detayı" />
+		<text name="User"                               value="Kullanıcı" />
+		<text name="UserObjId"                          value="Kullanıcı ObjId" />
+		<text name="CompanyObjId"                       value="Şube ObjId" />
+		<text name="CompanyRelationObjId"               value="Bağlı Olduğu Şube ObjId" />
+		<text name="RegistrationNumber"                 value="Sicil Numarası" />
+		<text name="PleaseInputYourPassword"            value="Lütfen Şifrenizi Giriniz!" />
+		<text name="PleaseInputYourConfirmPassword"     value="Lütfen Onay Şifrenizi Giriniz!" />
+		<text name="FirstName"                          value="Adı" />
+		<text name="LastName"                           value="Soyadı" />
+		<text name="AddUserRole"                        value="Kullanıcı Rolü Ekle" />
+		<text name="UserRolePermission"                 value="Rol İzni" />
+		<text name="UserRoleDetail"                     value="Rol Detayı" />
+		<text name="ConfirmPassword"                    value="Şifre Tekrar" />
+		<text name="AddRole"                            value="Rol Ekle" />
+
+
+		<text name="TheNewPositionCannotBeTheSameAsTheOldPosition"                           value="Yeni Pozisyon Eski Pozisyon İle Aynı Olamaz" />
+
+
+		<text name="Leave"      value="Ayrilma" />
+		<text name="Other"      value="Diger" />
+		<text name="NormExtend" value="Kadro_Genisleme" />
+
+
+
+
+
+		<!-- Chart -->
+		<text name="ChartRequest"                            value="talep" />
+		<text name="ChartWaiting"                            value="bekleyen" />
+		<text name="ChartApproved"                           value="onaylanan" />
+		<text name="ChartCancel"                             value="iptal" />
+
+		<text name="RequestDetail"                           value="Talep Detayı" />
+
+
+
+
+		<text name="HomePage" value="Ana Sayfa" />
+		<text name="About" value="Hakkında" />
+		<text name="WelcomeMessage" value="asdas projesine hoşgeldiniz!" />
+		<text name="FormIsNotValidMessage" value="Form geçerli değil. Lütfen kontrol edip hataları düzeltin." />
+		<text name="TenantNameCanNotBeEmpty" value="Müşteri adı boş bırakılamaz." />
+		<text name="InvalidUserNameOrPassword" value="Kullanıcı adı ya da şifre hatalı." />
+		<text name="ThereIsNoTenantDefinedWithName{0}" value="{0} isminde bir müşteri tanımlı değildir." />
+		<text name="TenantIsNotActive" value="{0} isimli müşteri aktif edilmemiştir." />
+		<text name="UserIsNotActiveAndCanNotLogin" value="{0} isimli kullanıcı pasife alınmıştır ve sisteme giremez." />
+		<text name="UserEmailIsNotConfirmedAndCanNotLogin">E-posta adresiniz doğrulanmadı, giriş yapamazsınız.</text>
+		<text name="UserLockedOutMessage">Kullanıcı hesabı kilitlenmiş. Lütfen bir süre sonra tekrar deneyin.</text>
+		<text name="PleaseEnterLoginInformation" value="Lütfen giriş bilgilerinizi girin" />
+		<text name="TenancyName" value="Müşteri adı" />
+		<text name="UserNameOrEmail" value="Kullanıcı adı ya da e-posta" />
+		<text name="Password" value="Şifre" />
+		<text name="ResetPassword" value="Şifreyi yenile" />
+		<text name="UpdatePassword" value="Şifreyi güncelle" />
+		<text name="RememberMe" value="Beni hatırla" />
+		<text name="LogIn" value="Giriş" />
+		<text name="LoginFailed" value="Giriş başarısız!" />
+		<text name="NameSurname" value="Ad soyad" />
+		<text name="UserName" value="Kullanıcı adı" />
+		<text name="Name" value="İsim" />
+		<text name="Surname" value="Soy isim" />
+		<text name="EmailAddress" value="E-posta adresi" />
+		<text name="Tenants" value="Müşteriler" />
+		<text name="SavedSuccessfully" value="Başarıyla kaydedildi" />
+		<text name="CreateNewTenant" value="Yeni müşteri oluştur" />
+		<text name="AdminEmailAddress" value="Yönetici e-posta adresi" />
+		<text name="Save" value="Kaydet" />
+		<text name="Cancel" value="İptal" />
+		<text name="TenantName_Regex_Description" value="Müşteri adı en az 2 karakter olmalı, bir harfle başlamalı ve harf, rakam, tire ya da alt çizgi ile devam etmelidir." />
+		<text name="DefaultPasswordIs" value="Varsayılan şifre {0}" />
+		<text name="CanBeEmptyToLoginAsHost" value="Host olarak giriş yapmak için boş bırakılabilir." />
+		<text name="Register" value="Kayıt ol" />
+		<text name="OrLoginWith" value="Ya da şununla giriş yap" />
+		<text name="WaitingForActivationMessage" value="Hesabınız sistem yöneticisi tarafından etkinleştirilmek için bekliyor." />
+		<text name="TenantSelection" value="Müşteri seçimi" />
+		<text name="TenantSelection_Detail" value="Lütfen aşağıdaki müşterilerden birisini seçin." />
+		<text name="Logout" value="Çıkış" />
+		<text name="RegisterFormUserNameInvalidMessage">Lütfen kullanıcı adı alanına e-posta adresi girmeyin.</text>
+		<text name="DatabaseConnectionString" value="Veritabanı bağlantı cümlesi" />
+		<text name="Users" value="Kullanıcılar" />
+		<text name="IsActive" value="Etkin mi" />
+		<text name="FullName" value="Tam adı" />
+		<text name="CreateNewUser" value="Yeni kullanıcı oluştur" />
+		<text name="Yes" value="Evet" />
+		<text name="No" value="Hayır" />
+		<text name="GiveUp" value="Vazgeç" />
+		<text name="Optional" value="Opsiyonel" />
+		<text name="LeaveEmptyToSwitchToHost">Üst kullanıcıya geçiş için boş değer girin.</text>
+		<text name="CurrentTenant">Geçerli müşteri</text>
+		<text name="NotSelected">Seçilmemiş</text>
+		<text name="Change">Değiştir</text>
+		<text name="ChangeTenant">Müşteri değiştir</text>
+		<text name="MultiLevelMenu">Çok Seviyeli Menü</text>
+		<text name="Back">Geri</text>
+		<text name="SuccessfullyRegistered">Başarıyla kayıt olundu</text>
+		<text name="WaitingForEmailActivation">E-posta adresiniz etkinleştirilmeli.</text>
+		<text name="Roles">Roller</text>
+		<text name="DisplayName">Görünen Ad</text>
+		<text name="Edit">Düzenle</text>
+		<text name="Delete">Sil</text>
+		<text name="CreateNewRole">Yeni rol oluştur</text>
+		<text name="RoleName">Rol Adı</text>
+		<text name="Actions">İşlemler</text>
+		<text name="CouldNotCompleteLoginOperation">Giriş işlemi başarısız! Lütfen daha sonra tekrar deneyiniz.</text>
+		<text name="CouldNotValidateExternalUser">Harici kullanıcı doğrulanamadı!</text>
+		<text name="EditRole">Rolü düzenle</text>
+		<text name="EditTenant">Müşteri düzenle</text>
+		<text name="EditUser">Kullanıcı düzenleme</text>
+		<text name="TenantIdIsNotActive{0}">Müşteri id aktif değil: {0}</text>
+		<text name="UnknownTenantId{0}">Müşteri id aktif değil: {0}</text>
+		<text name="ThisFieldIsRequired">Bu alan zorunludur.</text>
+		<text name="PleaseWait">Lütfen bekleyin...</text>
+		<text name="Administration">Yönetim</text>
+		<text name="ClearAll">Hepsini temizle</text>
+		<text name="ClearOthers">Diğerlerini temizle</text>
+		<text name="LabelOptions">Etikent seçenekleri</text>
+		<text name="Permissions">Yetkiler</text>
+		<text name="RoleDescription">Rol tanımı</text>
+		<text name="Refresh">Yenile</text>
+		<text name="Create">Oluştur</text>
+		<text name="UserDetails">Kullanıcı detayları</text>
+		<text name="UserRoles">Kullanıcı rolleri</text>
+		<text name="UserDeleteWarningMessage">{0} kullanıcısı silinecektir.</text>
+		<text name="RoleDeleteWarningMessage">{0} rolü silinecek ve atanmış kullanıcılardan kaldırılacaktır.</text>
+		<text name="TenantDeleteWarningMessage">{0} müşterisi silinecektir.</text>
+		<text name="SearchWithThreeDot">Ara...</text>
+		<text name="PleaseEnterAtLeastNCharacter">Lütfen en az {0} karakter giriniz</text>
+		<text name="PleaseEnterNoMoreThanNCharacter">Lütfen en fazla {0} karakter giriniz</text>
+		<text name="InvalidEmailAddress">Geçersiz e-posta adresi</text>
+		<text name="InvalidPattern">Geçersiz</text>
+		<text name="PairsDoNotMatch">Eşleşmiyor</text>
+		<text name="All">Hepsi</text>
+		<text name="TotalRecordsCount">Toplam: {0}</text>
+		<text name="Search">Bul</text>
+		<text name="Clear">Temizle</text>
+		<text name="CurrentPassword">Mevcut şifreniz</text>
+		<text name="NewPassword">Yeni şifre</text>
+		<text name="ConfirmNewPassword">Yeni şifreyi doğrula</text>
+
+
+		<!--Yeni Listeler-->
+
+		<text name="TableRecord">Kayıt</text>
+
+
+
+
+
+		<!--ANASAYFA-->
+		<text name="pages.dashboard"                                                        value="Anasayfa"/>
+		<text name="items.dashboard.menu.view"                                              value="Menü'de Görüntüleme"/>
+		<text name="items.dashboard.view.total.norm.fill.requests.weekly.statistics"        value="Toplam Yapılan Norm Doldurma Talebi Haftalık İstatistik"/>
+		<text name="items.dashboard.view.total.norm.update.requests.weekly.statistics"      value="Toplam Yapılan Norm Güncelleme Talebi Haftalık İstatistik"/>
+		<text name="items.dashboard.infobox"                                                value="Anasayfa Bilgi Kutuları"/>
+
+		<text name="subitems.dashboard.infobox.gettotalnormfillingrequest"               value="Toplam Yapılan Norm Doldurma Talebi"/>
+		<text name="subitems.dashboard.infobox.getpendingnormfillrequest"                value="Bekleyen Norm Doldurma Talebi"/>
+		<text name="subitems.dashboard.infobox.getacceptednormfillrequest"               value="Kabul Edilen Norm Doldurma Talebi"/>
+		<text name="subitems.dashboard.infobox.getcancelednormfillrequest"               value="İptal Edilen Norm Doldurma Talebi" />
+		<text name="subitems.dashboard.infobox.gettotalnormupdaterequest"                value="Toplam Yapılan Norm Güncelleme Talebi"/>
+		<text name="subitems.dashboard.infobox.getpendingnormupdaterequest "             value="Bekleyen Norm Güncelleme Talebi" />
+		<text name="subitems.dashboard.infobox.getacceptednormupdaterequest"             value="Kabul Edilen Norm Güncelleme Talebi" />
+		<text name="subitems.dashboard.infobox.getcancelednormupdaterequest"             value="İptal Edilen Norm Güncelleme Talebi" />
+
+		<text name="subitems.dashboard.infobox.norm.count"                              value="Norm Sayısı-EN" />
+		<text name="subitems.dashboard.infobox.emplooye.count"                          value="Personel Sayısı-EN" />
+
+
+
+		<!--HİYERARŞİ-->
+		<text name="pages.hierarchy"                            value="Hiyerarşi"/>
+		<text name="items.hierarchy.menu.view"                  value="Menü'de Görüntüleme"/>
+		<text name="items.hierarchy.approval.btn"               value="Onaylama"/>
+
+
+
+		<!--ŞUBE ve SUBE DETAY -->
+		<text name="pages.branch"                                                value="Şube ve şube detay" />
+		<text name="items.branch.menu.view"                                      value="Menü'de Görüntüleme"/>
+		<text name="items.branch.detail"                                         value="Şube Detay " />
+		<text name="subitems.branch.detail.total.table.view"                     value="Total Tablo" />
+		<text name="subitems.branch.detail.employee.table.view"                  value="Personel Listesi" />
+		<text name="subitems.branch.detail.norm.request.table.view"              value="Norm Talep Listesi" />
+		<text name="subitems.branch.detail.norm.request.table.btn"               value="Norm Talep Listesi Norm İşlemleri Butonu" />
+
+		<text name ="items.branch.list.view"                                      value="Şube Listesi"/>
+		<text name ="items.branch.list.view.detail.btn"                               value="Şube Listesi Detay Butonu"/>
+
+
+
+
+		<!--BÖLGE-->
+		<text name="pages.kareas"                                          value="Bölge"/>
+		<text name="items.kareas.menu.view"                                value="Menü'de Görüntüleme"/>
+		<text name="items.kareas.table"                                    value="Bölge Listesi işlemleri"/>
+		<text name="subitems.kareas.table.view"                            value="Bölge Listesi Görünsünmü"/>
+		<text name="subitems.items.kareas.table.unit.detail.btn"           value="Birim Detay Butonu"/>
+		<text name="subitems.items.kareas.table.areas.btn"                 value="Şube Butonu"/>
+		<text name="subitems.items.kareas.table.norm.entry.btn"            value="Norm Girişi Butonu"/>
+
+		<text name="items.kareas.infobox"                                  value="Bölge Bilgi Kutuları"/>
+		<text name="subitems.kareas.infobox.norm.count"                    value="Norm Sayısı"/>
+		<text name="subitems.kareas.infobox.employee.count"                value="Personel Listesi"/>
+		<text name="subitems.kareas.infobox.gettotalnormfillingrequest"    value="Toplam Yapılan Norm Doldurma Talebi"/>
+		<text name="subitems.kareas.infobox.getpendingnormfillrequest"     value="Bekleyen Norm Doldurma Talebi"/>
+		<text name="subitems.kareas.infobox.getacceptednormfillrequest"    value="Kabul Edilen Norm Doldurma Talebi"/>
+		<text name="subitems.kareas.infobox.getcancelednormfillrequest"    value="İptal Edilen Norm Doldurma Talebi" />
+		<text name="subitems.kareas.infobox.gettotalnormupdaterequest"     value="Toplam Yapılan Norm Güncelleme Talebi"/>
+		<text name="subitems.kareas.infobox.getpendingnormupdaterequest"   value="Bekleyen Norm Güncelleme Talebi" />
+		<text name="subitems.kareas.infobox.getacceptednormupdaterequest"  value="Kabul Edilen Norm Güncelleme Talebi" />
+		<text name="subitems.kareas.infobox.getcancelednormupdaterequest"  value="İptal Edilen Norm Güncelleme Talebi" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<!--KULLANICILAR-->
+		<text name="pages.user"                                value="Kullancılar"/>
+		<text name="items.user.menu.view"                      value="Menü'de Görüntüleme"/>
+		<text name="items.user.table"                          value="Kullancılar Listesi İşlemleri"/>
+
+		<text name="subitems.user.table.view"                  value="Kullancılar Listesi Görünsünmü"/>
+		<text name="subitems.user.table.create"                value="Yeni Kullancı Ekleme"/>
+		<text name="subitems.user.table.edit"                  value="Kullancı Düzenle"/>
+		<text name="subitems.user.table.delete"                value="Kullancı Sil"/>
+
+
+		<!--ROL-->
+		<text name="pages.role.new"                              value="Rol"/>
+		<text name="items.role.menu.view"                        value="Menü'de Görüntüleme"/>
+		<text name="items.role.table.role.new.create"            value="Yeni Rol Ekleme"/>
+
+		<text name="items.role.table"                            value="Rol Listesi İşlemleri"/>
+		<text name="subitems.role.table.view"                    value="Rol Listesi Görünsünmü"/>
+		<text name="subitems.role.table.create"                  value="Rol Ekle"/>
+		<text name="subitems.role.table.edit"                    value="Rol Düzenle"/>
+		<text name="subitems.role.table.delete"                  value="Rol Sil"/>
+
+
+
+		<!--KULLANIICI-->
+		<text name="pages.home"           value="Kullanıcı Sayfası"/>
+		<text name="items.home.menu.view"  value="Menü'de Görüntüleme"/>
+
+
+
+
+
+
+		<!--NORM İŞLEMLERİ-->
+		<text name="pages.knorm"                       value="Norm İşlemleri"/>
+		<text name="items.knorm.approve.btn"           value="Onaylama"/>
+		<text name="items.knorm.reject.btn"            value="Reddet"/>
+		<text name="items.knorm.detail.btn"            value="Detail"/>
+
+
+		<text name="items.knorm.kbolgenorm.create"     value="Bölge Norm Kaydet"/>
+		<text name="items.knorm.kbolgenorm.edit"       value="Bölge Norm Düzenle"/>
+		<text name="items.knorm.kbolgenorm.delete"     value="Bölge Norm Sil"/>
+		<text name="items.knorm.kbolgenorm.view"       value="Bölge Norm Göster"/>
+
+
+		<text name="items.knorm.ksubenorm.create"      value="Şube Norm Kaydet"/>
+		<text name="items.knorm.ksubenorm.edit"        value="Şube Norm Düzenle"/>
+		<text name="items.knorm.ksubenorm.delete"      value="Şube Norm Sil"/>
+		<text name="items.knorm.ksubenorm.view"           value="Şube Norm Göster"/>
+		<text name="items.knorm.ksubenorm.operation"      value="Şube Norm Operasyon"/>
+
+
+		<!--HASAR TAZMİN İŞLEMLERİ-->
+		<text name="CreateCompensationForm"            value="Tazmin Oluştur"/>
+		<text name="CreateCompensationList"            value="Tazmin Listesi"/>
+		<text name="CreateCompensationView"            value="Tazmin Detay"/>
+		<text name="CreateCompensationEvaluation"      value="Tazmin Değerlendirme"/>
+
+
+		<!--<text name="pages.damagecompensation"                  value="Hasar Tazmin"/>
+    <text name="items.damagecompensation.menu.view"        value="Menüde Görüntüleme"/>
+    <text name="items.damagecompensation.form.view"        value="Hasar Tazmin Form"/>
+    <text name="items.damagecompensation.list.view"        value="Hasar Tazmin Liste Form"/>
+    <text name="items.damagecompensation.hierarchy.view"   value="Hasar Tazmin Hiyerarşi Form"/>
+    <text name="items.damagecompensation.approval.btn"     value="Onaylama Butonu"/>-->
+
+
+		<!--TERFİ TALEP İŞLEMLERİ-->
+		<text name="pages.requestforpromotion"                        value="Terfi Talebi"/>
+		<text name="items.requestforpromotion.create.menu.view"       value="Terfi Talep Oluştur Görüntüleme"/>
+		<text name="items.requestforpromotion.search.menu.view"       value="Terfi Talep Sorgula Görüntüleme"/>
+		<text name="items.requestforpromotion.report.menu.view"       value="Terfi Talep Rapor Görüntüleme"/>
+		<text name="items.requestforpromotion.report.to.evaluate"     value="Değerlendir"/>
+
+
+
+		<!--DENEME SÜRESİ DEĞERLENDİRME TABLOSU-->
+
+		<text name="ProbationPeriod"                       value="Değerlendirme Süresi"/>
+		<text name="Evaluation"                            value="Değerlendirme"/>
+		<text name="Transactions"                          value="İşlemler"/>
+		<text name="StaffTimeRubric"                       value="Personel Süresi Değerlendirme Listesi"/>
+
+		<text name="Choose"                                value="Seçiniz..." />
+
+
+		<!--Terfi Talebi Oluştur-->
+		<text name="RequestForPromotion"                                   value="Terfi Talebi Oluştur" />
+		<text name="promotion.request.header"                              value="Terfi Talebi Oluştur" />
+		<text name="promotion.request.header.information"                  value="Terfi Talebi Değerlendir" />
+		<text name="promotion.request.personel"                            value="Terfi Talep Edilen Personel" />
+		<text name="promotion.request.personel.header"                     value="Personel Bilgileri" />
+		<text name="promotion.request.personel.registrationnumber"         value="Personel Sicil Numarası" />
+		<text name="promotion.request.personel.title"                      value="Personelin Görevi" />
+		<text name="promotion.request.personel.dateofstart"                value="İşe Başlama Tarihi" />
+		<text name="promotion.request.personel.lastpromotindate"           value="Son Terfi Aldığı Tarih" />
+		<text name="promotion.request.personel.educationlevel"             value="Eğitim Düzeyi" />
+		<text name="promotion.request.personel.militarystatus"             value="Askerlik Durumu" />
+		<text name="promotion.request.promotion.information"               value="Terfi Bilgileri" />
+		<text name="promotion.request.promotion.title"                     value="Terfi Talep Edilen Görev" />
+		<text name="promotion.request.promotion.description"               value="Açıklama" />
+		<text name="promotion.request.promotion.unit"                      value="Birim" />
+		<text name="promotion.request.promotion.department"                value="Departman" />
+		<text name="promotion.request.header.information.approvedbutton"   value="Onayla" />
+		<text name="promotion.request.header.information.rejectbutton"     value="Reddet" />
+		<text name="promotion.request.header.information.title"            value="Terfi talebini kaydetmeniz durumunda aşağıda yer alan hiyerarşi sırasına göre onay gönderilecektir." />
+		<text name="promotion.request.header.information.statu.title"      value="Oluşturulan terfi formu için süreç devam etmektedir." />
+
+
+
+		<!--Terfi Talebi Sorgula-->
+		<text name="FilterForPromotion"                                    value="Terfi Talebi Sorgula" />
+		<text name="promotion.filter.header"                               value="Terfi Talebi Sorgula" />
+		<text name="promotion.filter.statu"                                value="Durumu" />
+		<text name="promotion.filter.title"                                value="Görevi" />
+		<text name="promotion.filter.promationrequest"                     value="Terfi Talebi" />
+		<text name="promotion.filter.requestdate"                          value="Talep Tarihi" />
+		<text name="promotion.filter.button"                               value="Filtrele" />
+		<text name="promotion.filter.table.registrationnumber"             value="Sicil Numarası" />
+		<text name="promotion.filter.table.firstname"                      value="Ad" />
+		<text name="promotion.filter.table.lastname"                       value="Soyad" />
+		<text name="promotion.filter.table.title"                          value="Görev" />
+		<text name="promotion.filter.table.promationrequest"               value="Terfi Talebi" />
+		<text name="promotion.filter.table.requestdate"                    value="Talep Tarihi" />
+		<text name="promotion.filter.table.statu"                          value="Durumu" />
+		<text name="promotion.filter.table.actions"                        value="İşlemler" />
+
+		<!--Terfi Talebi Raporu-->
+		<text name="ReportForPromotion"                                    value="Terfi Talebi Raporu" />
+		<text name="promotion.report.header"                               value="Terfi Talebi Sorgula" />
+		<text name="promotion.report.statu"                                value="Durumu" />
+		<text name="promotion.report.title"                                value="Görevi" />
+		<text name="promotion.report.unit"                                 value="Birim" />
+		<text name="promotion.report.promationrequest"                     value="Terfi Talebi" />
+		<text name="promotion.report.requestdate"                          value="Talep Tarihi" />
+		<text name="promotion.report.button"                               value="Filtrele" />
+		<text name="promotion.report.table.registrationnumber"             value="Sicil Numarası" />
+		<text name="promotion.report.table.firstname"                      value="Ad" />
+		<text name="promotion.report.table.lastname"                       value="Soyad" />
+		<text name="promotion.report.table.unit"                           value="Birim" />
+		<text name="promotion.report.table.title"                          value="Görev" />
+		<text name="promotion.report.table.promationrequest"               value="Terfi Talebi" />
+		<text name="promotion.report.table.requestdate"                    value="Talep Tarihi" />
+		<text name="promotion.report.table.statu"                          value="Durumu" />
+		<text name="promotion.report.table.actions"                        value="İşlemler" />
+
+
+
+
+
+		<!--sayfa kelimeler-->
+		<text name="DamageCompensationForm" value="Hasar Tazmin Formu" />
+		<text name="CompensationInformation" value="Tazmin Bilgileri" />
+		<text name="Evalution" value="Değerlendirme" />
+		<text name="History" value="Tarihçe" />
+		<text name="CompensationNumber" value="Tazmin No" />
+		<text name="CompensationStatus" value="Tazmin Statü" />
+		<text name="Questioning" value="Sorgulama" />
+		<text name="CargoTrackingNumber" value="Kargo Takip No" />
+		<text name="Know" value="Biliniyor" />
+		<text name="UnKnow" value="Bilinmiyor" />
+		<text name="Bring" value="Getir" />
+		<text name="ShipmentInformation" value="Gönderi Bilgileri" />
+		<text name="DocumentationHistory" value="Evrak Oluşturma Tarihi" />
+		<text name="DocumentationSerialNumber" value="Evrak Seri Sıra No" />
+		<text name="SenderCode" value="Gönderici Kodu" />
+		<text name="SenderTitle" value="Gönderici Unvan" />
+		<text name="BuyerCode" value="Alici Kodu" />
+		<text name="BuyerTitle" value="Alici Unvan" />
+		<text name="ExitBranchName" value="Çıkış Şube Adı" />
+		<text name="ArrivalBranchName" value="Varış Şube Adı" />
+		<text name="CargoTyp" value="Kargo Tipi" />
+		<text name="PiecesQuantity" value="Parça Adedi" />
+		<text name="CompensationRequestDate" value="Tazmin Talep Tarihi" />
+		<text name="CompensationType" value="Tazmin Tipi" />
+		<text name="Damage" value="Hasar" />
+		<text name="Loss" value="Kayıp" />
+		<text name="LateDelivery" value="Geç Teslimat" />
+		<text name="CustomerSatisfaction" value="Müşteri Memnuniyeti" />
+		<text name="CompensationCustomer" value="Tazmin Müşteri" />
+		<text name="SenderCustomer" value="Gönderen Cari" />
+		<text name="BuyerCustomer" value="Alıcı Cari" />
+		<text name="DifferentCustomer" value="Farklı Cari" />
+		<text name="CustomerPayableType" value="Ödenecek Müşteri Tipi" />
+		<text name="Individual" value="Bireysel" />
+		<text name="Institutional" value="Kurumsal" />
+		<text name="IdentityNo" value="TC Kimlik No" />
+		<text name="TaxNo" value="Vergi Kimlik No" />
+		<text name="PaymentUnitBranchs" value="Ödeme Birimi/Bölge" />
+		<text name="RequestedAmount" value="Talep Edilen Tutar" />
+		<text name="ProcessOwnerRegion" value="Süreç Sahibi Bölge" />
+		<text name="InformationSms" value="Bilgilendirme(SMS)" />
+		<text name="InformationEmail" value="Bilgilendirme(Email)" />
+		<text name="CompensationFiles" value="Tazmin Belgeleri" />
+		<text name="CompensationPetition" value="Tazmin Dilekçesi" />
+		<text name="Invoice" value="Fatura" />
+		<text name="DispatchWaybill" value="Sevk İrsaliyesi" />
+		<text name="IdentityOrTaxNo" value="TcNo/VergiNo" />
+		<text name="CompensationReason" value="Tazmin Nedeni" />
+		<text name="LocationOfCargo" value="Kargonun Bulunduğu Yer" />
+		<text name="IsThereDefectiveUnit" value="Kusurlu Birim Var mı?" />
+		<text name="ContentesGruop" value="İçerik Grubu" />
+		<text name="Contentes" value="İçerik" />
+		<text name="ProductDescription" value="Ürün Açıklaması" />
+		<text name="AddedUser" value="Ekleyen Kullanıcı" />
+		<text name="AreaDescription" value="Bölge Açıklama" />
+		<text name="GMDescription" value="Gm Açıklama" />
+		<text name="CompensationPaymentStatus" value="Tazmin Ödeme Durumu" />
+		<text name="Payable" value="Ödenecek" />
+		<text name="WillNotBePaid" value="Ödenmicek" />
+		<text name="ADifferentAmountWillBePaid" value="Farklı Bir Tutar Ödenecek" />
+		<text name="AmountPaid" value="Ödenecek Tutar" />
+		<text name="AllList" value="Tüm Liste" />
+		<text name="DamageCompensationEdit" value="Düzenle" />
+		<text name="DamageCompensationEvalution" value="Değerlendir" />
+		<text name="DamageCompensationView" value="Görüntüle" />
+		<text name="Warning" value="Uyarı" />
+		<text name="ShippingTrackingNumberNotFound" value="Kargo takip numarası bulunamadı" />
+		<text name="RegisteredWithCargoCompensationNumber" value="Korgo tazmin numarası ile kayıtlı " />
+		<text name="CompensationThereIsRegistration" value="No'lu Tazmin No Bulunmaktadır" />
+		<text name="MissingDocumentationWarning" value="Hasar Tazmin Formu içerinsinde eksik evrak bulunmaktadır.Form eksik evrak statüsünde kaydedilecektir.Değerlendirme yapılamıcaktır." />
+		<text name="MissingDocumentationEvalutaionOk" value="Hasar tazmin kaydedildi.Değerlendirme yapabilirsiniz" />
+		<text name="MissingCompensationConfirmation" value="Hasar tazmin onaya gönderilmiştir" />
+		<text name="NewPage" value="Yeni Form" />
+		<text name="EnterTrackingNumber" value="Takip No Numarası Giriniz." />
+		<text name="PleaseCheckTheFileExtension" value="Lütfen dosya uzantısını kontrol ediniz" />
+		<text name="MissingNumber" value="Sadece sayısal değerler girilebilir" />
+		<text name="MissingInputEmpty" value="Lütfen Boş Bırakmayınız!" />
+		<text name="MissingInputPhone" value="Lütfen geçerli bir telefon numarası giriniz" />
+		<text name="MissingInputEmail" value="Lütfen geçerli bir Email giriniz" />
+		<text name="MissingInputCurrency" value="Sadece parasal değerler girilebilir" />
+		<text name="MissingInputVkno" value="Vkno no 11 karakterden az ve fazla olamaz" />
+		<text name="MissingInputTc" value="TC no 11 karakterden az ve fazla olamaz" />
+		<text name="ApprovalSend" value="Onaya Gönder" />
+		<text name="AmountRequestedExcludingVAT" value="Talep Edilen Tutar KDV Hariç" />
+		<text name="SelectDate" value="Tarih Seçiniz" />
+		<text name="NoRecordTracking" value="Kayıt Bulunamadı.Takip Numarası Hatalı" />
+		<text name="Pleasefillinthecompensationinformationtab" value="Lütfen tazmin bilgileri tabını doldurunuz" />
+		<text name="MissingInputFile" value="Lütfen dosya uzantısını kontrol ediniz." />
+		<text name="Vote" value="Seçim" />
+		<text name="StartDate" value="Başlangıç Tarihi" />
+		<text name="FinishDate" value="Bitiş Tarihi" />
+		<text name="DamageCompensationList" value="Hasar Tazmin Listesi" />
+		<text name="Information" value="Bilgilendirme" />
+		<text name="FileUpdateOk" value="Dosyanız Güncellendi" />
+		<text name="DamageFile" value="Tazmin Belgeleri" />
+		<text name="FileSave" value="Evrak Kaydet" />
+		<text name="File" value="Dosya" />
+
+
+		<text name="CariInfoCardCreate" value="Cari Kart Kaydetme" />
+		<text name="CariInfoCard" value="Cari Bilgileri" />
+		<text name="CariTitle" value="Cari Unvan" />
+		<text name="City" value="İl" />
+		<text name="District" value="İlçe" />
+		<text name="FindAddress" value="Adres Bul" />
+		<text name="Neighborhood" value="Mahalle" />
+		<text name="Street" value="Cadde" />
+		<text name="StreetTwo" value="Sokak" />
+		<text name="BuildingNumber" value="Bina No" />
+		<text name="BuildingName" value="Bina Adı" />
+		<text name="Block" value="Blok" />
+		<text name="Circle" value="Daire" />
+		<text name="Telephone" value="Telefon" />
+		<text name="Nationality" value="Uyruk" />
+		<text name="IndividualPerson" value="Şahıs/Tüzel" />
+
+		<text name="Individuall" value="Tüzel" />
+		<text name="Person" value="Şahıs" />
+
+
+
+
+
+
+		<!--MENÜ İŞLEMLERİ-->
+		<text name="sk.menu.hr"                              value="İnsan Kaynakları"/>
+		<text name="sk.menu.operations"                      value="Operasyon"/>
+		<text name="sk.menu.settings"                        value="Ayarlar"/>
+
+	</texts>
+
+
+
+
+
+</localizationDictionary>

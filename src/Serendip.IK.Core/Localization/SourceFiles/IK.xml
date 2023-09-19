@@ -1,0 +1,876 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<localizationDictionary culture="en">
+	<texts>
+		<text name="Dashboard" value="Dashboard" />
+		<text name="NormCount" value="Norm Count" />
+		<text name="EmployeeCount" value="Employee Count" />
+		<text name="NormIncreaseRequest" value="Norm Increase Request" />
+		<text name="NormFillRequest" value="Norm Fill Request" />
+		<text name="CanceledNormRequest" value="Canceled Norm Request" />
+		<text name="PendingNormIncrease" value="Pending Norm Increase" />
+		<text name="AcceptedNormIncreasing" value="Accepted Norm Increasing" />
+		<text name="RequestNorm" value="Request Norm" />
+		<text name="RegionalOffices" value="Regional Offices" />
+		<text name="NormCreate" value="Norm Create" />
+		<text name="Detail" value="Detail" />
+		<text name="WeeklyStatistics" value="Weekly Statistics" />
+		<text name="CreationTime" value="Creation Time" />
+		<text name="ModifiedTime" value="Modified Time" />
+		<text name="Position" value="Position" />
+		<text name="Add" value="Add" />
+		<text name="Close" value="Close" />
+		<text name="ConfirmDelete" value="Do you Want to delete these items?" />
+		<text name="UniqSelect" value="Please select another pozisiton" />
+		<text name="DamageCompensation" value="Damage Compensation" />
+
+		<text name="NormOpening" value="Norm Opening" />
+		<text name="PositionSelect" value="Position Select" />
+		<text name="PleaseSelect" value="Please Select" />
+		<text name="Branches" value="Branches" />
+		<text name="NormRequestReason" value="Norm Request Reason" />
+		<text name="RequestType" value="Request Type" />
+		<text name="Description" value="Description" />
+		<text name="AuthoritiesHierarchy" value="Authorities Hierarchy" />
+
+
+		<text name="Next" value="Next" />
+		<text name="Send" value="Send" />
+		<text name="Areas" value="Areas" />
+		<text name="Area" value="Area" />
+		<text name="Employee" value="Employee" />
+		<text name="NewPosition" value="New Position" />
+
+		<text name="EmployeesList" value="Employees List" />
+		<text name="Reject" value="Reject" />
+		<text name="Accept" value="Accept" />
+		<text name="RejectRequestDescriptionLabel" value="Please Write Your Reason for Refusal" />
+		<text name="RequestRejectForm" value="Request Reject Form" />
+		<text name="WellcomeMessage" value="Sürat Kargo" />
+		<text name="Type" value="Type" />
+
+		<text name="KSube" value="Branches" />
+		<text name="Serendip.IK.LongDate" value="LongDate" />
+
+
+		<text name="Monday"    value="Monday" />
+		<text name="Tuesday"   value="Tuesday" />
+		<text name="Wednesday" value="Wednesday" />
+		<text name="Thursday"  value="Thursday" />
+		<text name="Friday"    value="Friday" />
+		<text name="Saturday"  value="Saturday" />
+		<text name="Sunday"    value="Sunday" />
+
+
+		<text name="Request"   value="Request" />
+		<text name="Approved"  value="Approved" />
+		<text name="Approve"   value="Approve" />
+
+
+		<text name="AddedNormRequest" value="Added Norm Request" />
+		<text name="CompanyCode" value="Company Code" />
+		<text name="NormOperations" value="Norm Operations" />
+
+
+		<text name="Date" value="Date" />
+		<text name="Waiting" value="Waiting" />
+		<text name="Status" value="Status" />
+		<text name="MadeChange" value="Made Change" />
+
+		<text name="KPersonel" value="Employee" />
+		<text name="KSubeNorm" value="Branch Norm" />
+		<text name="KNormDetail" value="Norm Detail" />
+		<text name="KBolge" value="Area" />
+		<text name="KInkaLookUpTable" value="Inka Look Up Table" />
+		<text name="KHierarchy" value="Hierarchy" />
+		<text name="KSubeDetay" value="Branch Detail" />
+		<text name="UnitDetail" value="Unit Detail" />
+		<text name="NormDetailPanel" value="Norm Detail Panel" />
+		<text name="NormInsertOperation" value="Norm Insert Operation" />
+		<text name="UnknownError" value="Unknown Error" />
+
+		<text name="Mail_Notification_Title">You have a new notification!</text>
+		<text name="Mail_Notification_ViewDetail">View Detail</text>
+		<text name="Mail_Notification_Unsubscribe">Unsubscribe</text>
+		<text name="TotalNormFillingRequestWeeklyStatistics">Total Norm Filling Request Weekly Statistics</text>
+		<text name="TotalNormUpdateRequestWeeklyStatistics">Total Norm Update Request Weekly Statistics</text>
+
+
+		<!-- Notification Messages -->
+		<text name="YouAreNotAuthorizedToAddRecordsTitle"       value="Authorization Error"/>
+		<text name="YouAreNotAuthorizedToAddRecordsDescription" value="You are not authorized to add records"/>
+		<text name="Operations" value="Operations" />
+
+		<!-- Tablo Sayfalama-->
+		<text name="page" value="Page" />
+
+		<!--Hata Sayfaları-->
+		<text name="error.code.404"                             value="Sorry, the page you visited does not exist" />
+		<text name="error.code.401"                             value="Sorry, you dont have access to this page" />
+		<text name="error.code.500"                             value="Sorry, the server is reporting an error" />
+		<text name="error.page.button"                          value="Back To Home" />
+
+
+		<!-- Role -->
+		<text name="role.create"                                value="Create Norm" />
+		<text name="role.update"                                value="Update Norm" />
+		<text name="role.view"                                  value="Norm List" />
+		<text name="role.delete"                                value="Norm List" />
+
+		<!-- Rol Tablo Başlıkları -->
+
+		<text name="table.role.rolename"                        value="Rol Name" />
+		<text name="table.role.displayname"                     value="Display Name" />
+		<text name="table.role.transactions"                    value="Transactions" />
+
+		<!-- Norm -->
+		<text name="knorm.create"                               value="Create Norm" />
+		<text name="knorm.created"                              value="Create Norm" />
+		<text name="knorm.statuschange"                         value="Update Norm" />
+		<text name="knorm.view"                                 value="Norm List" />
+		<text name="knorm.detail"                               value="Detail" />
+		<text name="KNorm"                                      value="Norm" />
+		<text name="knorm.changed"                              value="Norm Changed" />
+		<text name="knorm.reject"                               value="Cancel" />
+		<text name="knorm.approve"                              value="Approve" />
+		<text name="DoYouWantToConfirm"                         value="Do You Want To Confirm?" />
+		<text name="CancelDoYouWantToConfirm"                   value="Do You Want To Confirm Cancel Operation?" />
+
+		<text name="knorm.gettotalnormfillingrequest"           value="Total Norm Filling Request" />
+		<text name="knorm.getpendingnormfillrequest"            value="Pending Norm Fill Request" />
+		<text name="knorm.getacceptednormfillrequest"           value="Accepted Norm FillRequest" />
+		<text name="knorm.getcancelednormfillrequest"           value="Canceled Norm Fill Request" />
+		<text name="knorm.gettotalnormupdaterequest"            value="Total Norm Update Requests" />
+		<text name="knorm.getpendingnormupdaterequest"          value="Pending Norm Update Request" />
+		<text name="knorm.getacceptednormupdaterequest"         value="Canceled Norm Update Request" />
+		<text name="knorm.getcancelednormupdaterequest"         value="Canceled Norm Update Request" />
+
+		<text name="InsufficientNormCount"                      value="Insufficient Norm Count" />
+		<text name="TotalNormUpdateRequest"                     value="Total Norm Update Requests" />
+		<text name="PendingNormFillRequest"                     value="Pending Norm Fill Request" />
+		<text name="TotalNormFillingRequest"                    value="Total Norm Filling Request" />
+		<text name="AcceptedNormFillRequest"                    value="Accepted Norm FillRequest" />
+		<text name="CanceledNormFillRequest"                    value="Canceled Norm Fill Request" />
+		<text name="PendingNormUpdateRequest"                   value="Pending Norm Update Request" />
+		<text name="AcceptedNormUpdateRequest"                  value="Accepted Norm Update Request" />
+		<text name="CanceledNormUpdateRequest"                  value="Canceled Norm Update Request" />
+		<text name="NormRequesDetailTable"                      value="Norm Reques Detail Panel" />
+
+		<text name="NormCreateNotificationMessageTitle"         value="Norm Create Information" />
+		<text name="NormCreateNotificationMessageDescription"   value="Norm Successfully Added" />
+		<text name="NormRejectNotificationMessageTitle"         value="Norm Reject Information" />
+		<text name="NormRejectNotificationMessageDescription"   value="Norm Successfully Reject" />
+		<text name="NormApproveNotificationMessageTitle"        value="Norm Approve Information" />
+		<text name="NormApproveNotificationMessageDescription"  value="Norm Successfully Approved" />
+
+		<!-- Norm Talep Türü-->
+		<text name="NormDoldurma"                               value="Norm Increase" />
+		<text name="NormArttır"                                 value="Norm Fill" />
+		<text name="NormKaydır"                                 value="Norm Change" />
+		<text name="Norm_Doldurma"                              value="Norm Increase" />
+		<text name="Norm_Arttir"                                value="Norm Fill" />
+		<text name="Norm_Kaydir"                                value="Norm Change" />
+
+
+		<!-- Norm Tablo Başlıkları -->
+		<text name="table.norm.requestdate"                     value="Request Date" />
+		<text name="table.norm.requeststatus"                   value="Request Status" />
+		<text name="table.norm.position"                        value="Position" />
+		<text name="table.norm.requestreason"                   value="Request Reason" />
+		<text name="table.norm.requesttype"                     value="Request Type" />
+		<text name="table.norm.transactions"                    value="Transactions" />
+		<text name="table.norm.area.name"                       value="Area Name" />
+		<text name="table.norm.branch.name"                     value="Branch Name" />
+		<text name="table.role.description"                     value="Description" />
+		<text name="table.norm.newposition"                     value="New Position" />
+		<text name="table.norm.leaving.staff"                   value="Leaving Staff" />
+		<text name="table.norm.description"                     value="Description" />
+		<text name="table.norm.creator.user.name"               value="Request User" />
+		<text name="Ayrilma"                                    value="Ayrılma" />
+
+
+		<!-- Hiyerarşi -->
+		<text name="khierarchy.view"                            alue="Hierarchy" />
+		<text name="khierarchy.status.change"                   alue="Hierarchy Status Change" />
+		<text name="khierarchy.list"                            alue="Hierarchy List" />
+		<text name="khierarchy.edit"                            alue="Hierarchy Edit" />
+
+
+
+		<!-- Home -->
+		<text name="Home"                                       value="Home Page" />
+		<text name="home.view"                                  value="Home Page" />
+
+
+		<!-- Dashboard -->
+		<text name="dashboard.view"                             value="Dashboard" />
+
+
+		<!-- Şube -->
+		<text name="ksube.view"                                 value="Branch List" />
+		<text name="ksube.detail"                               value="Branch Detail" />
+		<text name="ksubedetail.employee.list"                  value="Employee List" />
+		<text name="ksubedetail.norm.request.list"              value="Norm Request List" />
+		<text name="ksubedetail.norm.employee.list"             value="Norm Employee Request List" />
+
+
+
+		<!-- Şube Detay Yetkilendirme -->
+		<text name="pages.kbranch_detail"                                   value="Branch Detail" />
+		<text name="items.kbranch_detail.employee_norm_table"               value="Employee Norm List" />
+		<text name="items.kbranch_detail.employee_table"                    value="Employee List" />
+
+		<text name="items.kbranch_detail.norm_table"                        value="Norm Request List" />
+		<text name="subitems.kbranch_detail.norm_table.button"              value="Norm Action Button" />
+		<text name="subitems.kbranch_detail.norm_table.list"                value="Norm Request Table" />
+		<!-- Şube Tablo Başlıkları-->
+
+		<text name="table.branch.duty"                          value="Duty" />
+		<text name="table.branch.employeecount"                 value="Employee Count" />
+		<text name="table.branch.normcount"                     value="Norm Count" />
+		<text name="table.branch.normgap"                       value="Norm Gap" />
+		<text name="table.branch.name"                          value="Branch Name" />
+		<text name="table.branch.type"                          value="Branch Type" />
+		<text name="table.branch.transactions"                  value="Transactions" />
+		<text name="table.branch.areaname"                      value="Area Name"/>
+
+
+		<!-- KSube Norm -->
+		<text name="pages.ksubenorm"                             value="Branch Norm" />
+		<text name="ksubenorm.create"                            value="Branch Norm Create" />
+		<text name="ksubenorm.edit"                              value="Branch Norm Edit" />
+		<text name="ksubenorm.delete"                            value="Branch Norm Delete" />
+		<text name="ksubenorm.view"                              value="Branch Norm List" />
+		<text name="ksubenorm.operation"                         value="Norm Insert" />
+
+		<!-- Table -->
+		<text name="NoData"                                      value="No Data" />
+
+		<!-- Personel -->
+		<text name="Pages_KPersonel"                             value="Employees" />
+		<text name="kpersonel.view"                              value="Employee List" />
+
+		<!-- Personel Tablo Başlıkları -->
+		<text name="table.employee.name"                         value="Employee Name" />
+		<text name="table.employee.surname"                      value="Employee Surname" />
+		<text name="table.employee.duty"                         value="Duty" />
+		<text name="table.employee.registrationnumber"           value="Registration Number" />
+
+
+		<!-- Bölge -->
+		<text name="Pages_KBolge"                                value="Area" />
+		<text name="kbolge.view"                                 value="Areas" />
+		<text name="kbolge.areas.list"                           value="Area Employees List" />
+
+		<text name="kbolge.detail.employee_list"                 value="Area Employees List" />
+		<text name="kbolge.detail.norm_request_list"             value="Area Employees List" />
+		<text name="kbolge.detail.norm_employee_request_list"    value="Area Employees List" />
+		<text name="YouAreNotAuthorizedForThisRegion"            value="You are not authorized for this region" />
+		<text name="kbolge.norm.operation"                       value="Norm Create" />
+		<text name="kbolge.norm.create"                          value="Area Norm Create" />
+		<text name="kbolge.norm.edit"                            value="Area Norm Edit" />
+		<text name="kbolge.norm.delete"                          value="Area Norm Delete" />
+		<text name="kbolge.norm.view"                            value="Area Norm List" />
+
+
+
+		<!-- Bölge Tablo Başlıkları -->
+		<text name="table.area.name"                             value="Area Name" />
+		<text name="table.area.type"                             value="Area Type" />
+		<text name="table.area.employeecount"                    value="Employee Count" />
+		<text name="table.area.normcount"                        value="Norm Count" />
+		<text name="table.area.normgap"                          value="Norm Gap" />
+		<text name="table.area.transactions"                     value="Settings" />
+		<text name="table.area.duty"                             value="Title" />
+
+
+
+		<!-- Yönetim -->
+		<text name="Admin"                                       value="Admin" />
+
+
+
+		<!--Kullanıcı-->
+		<text name="Pages.User"                                  value="Users" />
+		<text name="user.activation"                             value="User Activation" />
+		<text name="user.delete"                                 value="User Delete" />
+		<text name="user.create"                                 value="User Create" />
+		<text name="user.update"                                 value="User Update" />
+		<text name="user.view"                                   value="User List" />
+		<text name="user.changelanguage"                         value="User Change Language" />
+		<text name="user.changepassword"                         value="User Change Password" />
+		<text name="user.resetpassword"                          value="User Reset Password" />
+
+
+
+		<!-- Kullanıcı Tablosu -->
+		<text name="Title"                                                   value="Title" />
+		<text name="IsActiveStatus"                                          value="Status" />
+		<text name="Active"                                                  value="Active" />
+		<text name="Passive"                                                 value="Passive" />
+		<text name="UserDetail"                                              value="User Detail" />
+		<text name="User"                                                    value="User" />
+		<text name="UserObjId"                                               value="User Id" />
+		<text name="CompanyObjId"                                            value="Company Id" />
+		<text name="CompanyRelationObjId"                                    value="Company Relation Id" />
+		<text name="RegistrationNumber"                                      value="Registration Number" />
+		<text name="PleaseInputYourPassword"                                 value="Please input your password!" />
+		<text name="PleaseInputYourConfirmPassword"                          value="Please input your confirm password!" />
+		<text name="FirstName"                                               value="First Name" />
+		<text name="LastName"                                                value="Last Name" />
+		<text name="AddUserRole"                                             value="Add User Role" />
+		<text name="UserRolePermission"                                      value="Role Permission" />
+		<text name="UserRoleDetail"                                          value="Role Detail" />
+		<text name="AddRole"                                                 value="Add Role" />
+		<text name="TheInputIsNotValidEMail"                                 value="The Input Is Not Valid EMail" />
+		<text name="NoSelectData"                                            value="No Data Available" />
+		<text name="TwoPasswordsThatYouEnterIsInconsistent"                  value="Two passwords that you enter is inconsistent!" />
+
+		<!-- Kullanıcı Tablo Başlıkları -->
+		<text name="table.user.username"           value="Username" />
+		<text name="table.user.name"               value="Name" />
+		<text name="table.user.surname"            value="Surname" />
+		<text name="table.user.duty"               value="Duty" />
+		<text name="table.user.email"              value="E-Mail" />
+		<text name="table.user.status"             value="Status" />
+		<text name="table.user.transactions"       value="Transactions" />
+
+
+		<text name="Choose"                        value="Choose" />
+		<!--Terfi Talebi Oluştur-->
+		<text name="RequestForPromotion"                                   value="Create Promotion Request" />
+		<text name="promotion.request.header"                              value="Create Promotion Request" />
+		<text name="promotion.request.personel"                            value="Personnel Requested for Promotion" />
+		<text name="promotion.request.personel.header"                     value="Personnel Information" />
+		<text name="promotion.request.personel.registrationnumber"         value="Registration Number" />
+		<text name="promotion.request.personel.title"                      value="Personnel Title" />
+		<text name="promotion.request.personel.dateofstart"                value="Date of Start" />
+		<text name="promotion.request.personel.lastpromotindate"           value="Last Promotion Date" />
+		<text name="promotion.request.personel.educationlevel"             value="Education Level" />
+		<text name="promotion.request.personel.militarystatus"             value="Military Status" />
+		<text name="promotion.request.promotion.information"               value="Promotion Information" />
+		<text name="promotion.request.promotion.title"                     value="Mission Requested for Promotion" />
+		<text name="promotion.request.promotion.description"               value="Explanation" />
+		<text name="promotion.request.promotion.unit"                      value="Unit" />
+		<text name="promotion.request.promotion.department"                value="Department" />
+		<text name="promotion.request.header.information.approvedbutton"   value="Approved" />
+		<text name="promotion.request.header.information.rejectbutton"     value="Reject" />
+		<text name="promotion.request.header.information.title"            value="If you save the promotion request, approval will be sent according to the hierarchy below." />
+		<text name="promotion.request.header.information.statu.title"      value="The process continues for the promotion form created." />
+
+
+
+		<!--Terfi Talebi Sorgula-->
+		<text name="FilterForPromotion"                                    value="Promotion Request Filter" />
+		<text name="promotion.filter.header"                               value="Promotion Request Filter" />
+		<text name="promotion.filter.statu"                                value="Status" />
+		<text name="promotion.filter.title"                                value="Title" />
+		<text name="promotion.filter.promationrequest"                     value="Promation Request" />
+		<text name="promotion.filter.requestdate"                          value="Request Date" />
+		<text name="promotion.filter.button"                               value="Filter" />
+		<text name="promotion.filter.table.registrationnumber"             value="Registiration Number" />
+		<text name="promotion.filter.table.firstname"                      value="First Name" />
+		<text name="promotion.filter.table.lastname"                       value="Last Name" />
+		<text name="promotion.filter.table.title"                          value="Title" />
+		<text name="promotion.filter.table.promationrequest"               value="Promation Request" />
+		<text name="promotion.filter.table.requestdate"                    value="Request Date" />
+		<text name="promotion.filter.table.statu"                          value="Status" />
+		<text name="promotion.filter.table.actions"                        value="Actions" />
+
+
+		<!--Terfi Talebi Raporu-->
+		<text name="ReportForPromotion"                                    value="Promotion Request Report" />
+		<text name="promotion.report.header"                               value="Promotion Request Filter" />
+		<text name="promotion.report.statu"                                value="Status" />
+		<text name="promotion.report.title"                                value="Title" />
+		<text name="promotion.report.unit"                                 value="Unit" />
+		<text name="promotion.report.promationrequest"                     value="Promation Request" />
+		<text name="promotion.report.requestdate"                          value="Request Date" />
+		<text name="promotion.report.button"                               value="Filter" />
+		<text name="promotion.report.table.registrationnumber"             value="Registiration Number" />
+		<text name="promotion.report.table.firstname"                      value="First Name" />
+		<text name="promotion.report.table.lastname"                       value="Last Name" />
+		<text name="promotion.report.table.title"                          value="Title" />
+		<text name="promotion.report.table.promationrequest"               value="Promation Request" />
+		<text name="promotion.report.table.unit"                           value="Unit" />
+		<text name="promotion.report.table.requestdate"                    value="Request Date" />
+		<text name="promotion.report.table.statu"                          value="Status" />
+		<text name="promotion.report.table.actions"                        value="Actions" />
+
+
+
+
+
+
+		<!-- Chart -->
+		<text name="ChartRequest"                            value="request" />
+		<text name="ChartWaiting"                            value="waiting" />
+		<text name="ChartApproved"                           value="approved" />
+		<text name="ChartCancel"                             value="cancel" />
+
+
+		<text name="RequestDetail"                           value="Request Detail" />
+		<text name="TheNewPositionCannotBeTheSameAsTheOldPosition"                           value="The New Position Can not Be The Same As The Old Position" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		<text name="Leave"      value="Ayrilma" />
+		<text name="Other"      value="Diger" />
+		<text name="NormExtend" value="Kadro_Genisleme" />
+
+
+
+
+
+
+
+
+
+
+
+
+		<text name="HomePage" value="Home page" />
+		<text name="About" value="About" />
+		<text name="WelcomeMessage" value="Welcome to asdas!" />
+		<text name="FormIsNotValidMessage" value="Form is not valid. Please check and fix errors." />
+		<text name="TenantNameCanNotBeEmpty" value="Tenant name can not be empty" />
+		<text name="InvalidUserNameOrPassword" value="Invalid user name or password" />
+		<text name="ThereIsNoTenantDefinedWithName{0}" value="There is no tenant defined with name {0}" />
+		<text name="TenantIsNotActive" value="Tenant {0} is not active." />
+		<text name="UserIsNotActiveAndCanNotLogin" value="User {0} is not active and can not log in." />
+		<text name="UserEmailIsNotConfirmedAndCanNotLogin">Your email address is not confirmed. You can not login.</text>
+		<text name="UserLockedOutMessage">The user account has been locked out. Please try again later.</text>
+		<text name="PleaseEnterLoginInformation" value="Please enter login information" />
+		<text name="TenancyName" value="Tenancy name" />
+		<text name="UserNameOrEmail" value="User name or email" />
+		<text name="Password" value="Password" />
+		<text name="ResetPassword" value="Reset Password" />
+		<text name="UpdatePassword" value="Update Password" />
+		<text name="RememberMe" value="Remember me" />
+		<text name="LogIn" value="Log in" />
+		<text name="LoginFailed" value="Login failed!" />
+		<text name="NameSurname" value="Name surname" />
+		<text name="UserName" value="User name" />
+		<text name="Name" value="Name" />
+		<text name="Surname" value="Surname" />
+		<text name="EmailAddress" value="Email address" />
+		<text name="Tenants" value="Tenants" />
+		<text name="SavedSuccessfully" value="Saved successfully" />
+		<text name="CreateNewTenant" value="Create new tenant" />
+		<text name="AdminEmailAddress" value="Admin email address" />
+		<text name="AdminPassword" value="Admin password" />
+		<text name="Save" value="Save" />
+		<text name="Cancel" value="Cancel" />
+		<text name="TenantName_Regex_Description" value="Tenant name must be at least 2 chars, starts with a letter and continue with letter, number, dash or underscore." />
+		<text name="DefaultPasswordIs" value="Default password is {0}" />
+		<text name="CanBeEmptyToLoginAsHost" value="Can be empty to login as host." />
+		<text name="Register" value="Register" />
+		<text name="OrLoginWith" value="Or login with" />
+		<text name="WaitingForActivationMessage" value="Your account is waiting to be activated by system admin." />
+		<text name="TenantSelection" value="Tenant Selection" />
+		<text name="TenantSelection_Detail" value="Please select one of the following tenants." />
+		<text name="Logout" value="Logout" />
+		<text name="RegisterFormUserNameInvalidMessage">Please don't enter an email address for username.</text>
+		<text name="DatabaseConnectionString" value="Database connection string" />
+		<text name="Users" value="Users" />
+		<text name="IsActive" value="Is active" />
+		<text name="FullName" value="Full name" />
+		<text name="CreateNewUser" value="Create new user" />
+		<text name="Yes" value="Yes" />
+		<text name="No" value="No" />
+		<text name="GiveUp" value="Cancel" />
+		<text name="Optional" value="Optional" />
+		<text name="LeaveEmptyToSwitchToHost">Leave empty to switch to the host</text>
+		<text name="CurrentTenant">Current tenant</text>
+		<text name="NotSelected">Not selected</text>
+		<text name="Change">Change</text>
+		<text name="ChangeTenant">Change tenant</text>
+		<text name="MultiLevelMenu">Multi Level Menu</text>
+		<text name="Back">Back</text>
+		<text name="SuccessfullyRegistered">Successfully registered</text>
+		<text name="WaitingForEmailActivation">Your email address should be activated</text>
+		<text name="Roles">Roles</text>
+		<text name="DisplayName">Display Name</text>
+		<text name="Edit">Edit</text>
+		<text name="Delete">Delete</text>
+		<text name="CreateNewRole">Create new role</text>
+		<text name="RoleName">Role Name</text>
+		<text name="Actions">Actions</text>
+		<text name="CouldNotCompleteLoginOperation">Could not complete login operation. Please try again later.</text>
+		<text name="CouldNotValidateExternalUser">Could not validate external user</text>
+		<text name="EditRole">Edit role</text>
+		<text name="EditTenant">Edit tenant</text>
+		<text name="EditUser">Edit user</text>
+		<text name="TenantIdIsNotActive{0}">TenantId {0} is not active</text>
+		<text name="UnknownTenantId{0}">Unknown tenantId {0}</text>
+		<text name="ThisFieldIsRequired">This field is required</text>
+		<text name="PleaseWait">Please wait...</text>
+		<text name="Administration">Administration</text>
+		<text name="ClearAll">Clear all</text>
+		<text name="ClearOthers">Clear others</text>
+		<text name="LabelOptions">Label options</text>
+		<text name="Permissions">Permissions</text>
+		<text name="RoleDescription">Role description</text>
+		<text name="Refresh">Refresh</text>
+		<text name="Create">Create</text>
+		<text name="UserDetails">User details</text>
+		<text name="UserRoles">User roles</text>
+		<text name="ConfirmPassword">Confirm password</text>
+		<text name="Version">Version</text>
+		<text name="On">On</text>
+		<text name="Off">Off</text>
+		<text name="AreYouSureWantToDelete">Are you sure want to delete {0}?</text>
+		<text name="SuccessfullyDeleted">Successfully deleted</text>
+		<text name="StartTyping">Start Typing</text>
+		<text name="Skins">Skins</text>
+		<text name="Settings">Settings</text>
+		<text name="Filter">Filter</text>
+		<text name="CurrentPassword">Current Password</text>
+		<text name="NewPassword">New Password</text>
+		<text name="ConfirmNewPassword">Confirm New Password</text>
+		<text name="PasswordsDoNotMatch">Passwords do not match</text>
+		<text name="PasswordsMustBeAtLeast8CharactersContainLowercaseUppercaseNumber">Passwords must be at least 8 characters, contain a lowercase, uppercase, and number</text>
+		<text name="UserDeleteWarningMessage">User {0} will be deleted.</text>
+		<text name="RoleDeleteWarningMessage">Role {0} will be deleted and unassigned from all assigned users.</text>
+		<text name="TenantDeleteWarningMessage">Tenant {0} will be deleted.</text>
+		<text name="SearchWithThreeDot">Search...</text>
+		<text name="PleaseEnterAtLeastNCharacter">Please enter at least {0} characters</text>
+		<text name="PleaseEnterNoMoreThanNCharacter">Please enter no more than {0} characters</text>
+		<text name="InvalidEmailAddress">Invalid email address</text>
+		<text name="InvalidPattern">Invalid</text>
+		<text name="PairsDoNotMatch">Do not match</text>
+		<text name="All">All</text>
+		<text name="TotalRecordsCount">Total: {0}</text>
+		<text name="Search">Search</text>
+		<text name="Clear">Clear</text>
+		<text name="ResetPasswordStepOneInfo">1. Enter your administrator password</text>
+		<text name="ResetPasswordStepTwoInfo">2. Copy this random password so you can send it to the user</text>
+		<text name="UsersActivation">Users activation</text>
+		<text name="HierarchyTransfer">IK Hierarchy</text>
+
+
+
+
+
+
+		<!--Yeni Listeler-->
+		<text name="TableRecord">Record</text>
+
+
+
+
+		<!--ANASAYFA-->
+		<text name="pages.dashboard"                                                     value="Dasboard"/>
+		<text name="items.dashboard.menu.view"                                           value="Menu View"/>
+		<text name="items.dashboard.view.total.norm.fill.requests.weekly.statistics"     value="Toplam Yapılan Norm Doldurma Talebi Haftalık İstatistik"/>
+		<text name="items.dashboard.view.total.norm.update.requests.weekly.statistics"   value="Toplam Yapılan Norm Güncelleme Talebi Haftalık İstatistik"/>
+		<text name="items.dashboard.infobox"                                             value="Anasayfa Bilgi Kutuları"/>
+
+		<text name="subitems.dashboard.infobox.gettotalnormfillingrequest"               value="Total Norm Filling Request" />
+		<text name="subitems.dashboard.infobox.getpendingnormfillrequest"                value="Pending Norm Fill Request" />
+		<text name="subitems.dashboard.infobox.getacceptednormfillrequest"               value="Accepted Norm FillRequest" />
+		<text name="subitems.dashboard.infobox.getcancelednormfillrequest"               value="Canceled Norm Fill Request" />
+		<text name="subitems.dashboard.infobox.gettotalnormupdaterequest"                value="Total Norm Update Requests" />
+		<text name="subitems.dashboard.infobox.getpendingnormupdaterequest"             value="Pending Norm Update Request" />
+		<text name="subitems.dashboard.infobox.getacceptednormupdaterequest"             value="Canceled Norm Update Request" />
+		<text name="subitems.dashboard.infobox.getcancelednormupdaterequest"             value="Canceled Norm Update Request" />
+
+		<text name="subitems.dashboard.infobox.norm.count"                              value="Norm Count" />
+		<text name="subitems.dashboard.infobox.emplooye.count"                          value="Employee Count" />
+
+
+
+		<!--HİYERARŞİ-->
+		<text name="pages.hierarchy"                            value="Hiyerarşi"/>
+		<text name="items.hierarchy.menu.view"                   value="Menu View"/>
+		<text name="items.hierarchy.approval.btn"                value="Approval"/>
+
+
+
+		<!--ŞUBE ve SUBE DETAY -->
+		<text name="pages.branch"                                                value="Branch and branch detail" />
+		<text name="items.branch.menu.view"                                      value="Menu View"/>
+		<text name="items.branch.detail"                                         value="Branch Detail " />
+		<text name="subitems.branch.detail.total.table.view"                     value="Total Tablo" />
+		<text name="subitems.branch.detail.employee.table.view"                  value="Employee List" />
+		<text name="subitems.branch.detail.norm.request.table.view"              value="Norm Request List" />
+		<text name="subitems.branch.detail.norm.request.table.btn"               value="Norm Request List Norm Transactions Button "/>
+
+
+
+
+
+
+		<!--BÖLGE-->
+		<text name="pages.kareas"                                          value="Areas"/>
+		<text name="items.kareas.menu.view"                                value="Menu View"/>
+		<text name="items.kareas.table"                                    value="Areas List Transactions"/>
+		<text name="subitems.kareas.table.view"                            value="Areas List View"/>
+		<text name="subitems.items.kareas.table.unit.detail.btn"           value="Unit Detail Button"/>
+		<text name="subitems.items.kareas.table.areas.btn"                 value="Branch Button"/>
+		<text name="subitems.items.kareas.table.norm.entry.btn"            value="Norm Entry Button"/>
+		<text name="items.kareas.infobox"                                  value="Areas Info Box"/>
+		<text name="subitems.kareas.infobox.norm.count"                    value="Norm Count" />
+		<text name="subitems.kareas.infobox.employee.count"                value="Employee Count" />
+		<text name="subitems.kareas.infobox.gettotalnormfillingrequest"   value="Total Norm Filling Request" />
+		<text name="subitems.kareas.infobox.getpendingnormfillrequest"    value="Pending Norm Fill Request" />
+		<text name="subitems.kareas.infobox.getacceptednormfillrequest"   value="Accepted Norm FillRequest" />
+		<text name="subitems.kareas.infobox.getcancelednormfillrequest"   value="Canceled Norm Fill Request" />
+		<text name="subitems.kareas.infobox.gettotalnormupdaterequest"    value="Total Norm Update Requests" />
+		<text name="subitems.kareas.infobox.getpendingnormupdaterequest"  value="Pending Norm Update Request" />
+		<text name="subitems.kareas.infobox.getacceptednormupdaterequest" value="Canceled Norm Update Request" />
+		<text name="subitems.kareas.infobox.getcancelednormupdaterequest" value="Canceled Norm Update Request" />
+
+
+
+
+
+
+
+
+
+
+
+		<!--KULLANICILAR-->
+		<text name="pages.user"                                value="Users"/>
+		<text name="items.user.menu.view"                      value="Menu View"/>
+		<text name="items.user.table"                          value="Users List Transactions"/>
+
+		<text name="subitems.user.table.view"                  value="User List View"/>
+		<text name="subitems.user.table.create"                value="New User Ekleme"/>
+		<text name="subitems.user.table.edit"                  value="User Edit"/>
+		<text name="subitems.user.table.delete"                value="User Delete"/>
+
+
+		<!--ROL-->
+		<text name="pages.role.new"                              value="Role"/>
+		<text name="items.role.menu.view"                         value="Menu View"/>
+		<text name="items_role_table"                            value="Role List Transactions"/>
+		<text name="subitems_role_table_view"                    value="Role List View"/>
+		<text name="items_role_table__role_new_create"           value="New Role Create"/>
+		<text name="subitems_role_table_create"                  value="Role Ekle"/>
+		<text name="subitems_role_table_edit"                    value="Role Edit"/>
+		<text name="subitems_role_table_delete"                  value="Role Delete"/>
+
+
+
+		<!--KULLANIICI-->
+		<text name="pages.home"           value="User"/>
+		<text name="items.home.menu.view"  value="Menu View"/>
+
+
+
+		<!--NORM İŞLEMLERİ-->
+		<text name="pages.knorm"                       value="Norm Transactions"/>
+		<text name="items.knorm.approve.btn"           value="Approve"/>
+		<text name="items.knorm.reject.btn"            value="Reject"/>
+		<text name="items.knorm.detail.btn"            value="Detail"/>
+
+		<text name="items.knorm.kbolgenorm.create"     value="Bölge Norm Kaydet"/>
+		<text name="items.knorm.kbolgenorm.edit"       value="Bölge Norm Düzenle"/>
+		<text name="items.knorm.kbolgenorm.delete"     value="Bölge Norm Sil"/>
+		<text name="items.knorm.kbolgenorm.view"       value="Bölge Norm Göster"/>
+
+
+		<text name="items.knorm.ksubenorm.create"      value="Şube Norm Kaydet"/>
+		<text name="items.knorm.ksubenorm.edit"        value="Şube Norm Düzenle"/>
+		<text name="items.knorm.ksubenorm.delete"      value="Şube Norm Sil"/>
+
+		<text name="items.knorm.ksubenorm.view"           value="Şube Norm Göster"/>
+		<text name="items.knorm.ksubenorm.operation"      value="Şube Norm Operasyon"/>
+
+
+		<!--HASAR TAZMİN İŞLEMLERİ-->
+		<text name="CreateCompensationForm"            value="Create Compensation Form"/>
+		<text name="CreateCompensationList"            value="Compensation List"/>
+		<text name="CreateCompensationView"            value="Compensation View"/>
+		<text name="CreateCompensationEvaluation"      value="Compensation Evaluation"/>
+
+
+		<!--<text name="pages.damagecompensation"                  value="Damage Compensation"/>
+    <text name="items.damagecompensation.menu.view"        value="Menu View"/>
+    <text name="items.damagecompensation.form.view"        value="Damage Compensation Form"/>
+    <text name="items.damagecompensation.list.view"        value="Damage Compensation List Form"/>
+    <text name="items.damagecompensation.hierarchy.view"   value="Damage Compensation Hierarchy Form"/>
+    <text name="items.damagecompensation.approval.btn"     value="Approval Butonu"/>-->
+
+
+
+
+		<!--DENEME SÜRESİ DEĞERLENDİRME TABLOSU-->
+
+		<text name="ProbationPeriod"                       value="Probation Period"/>
+		<text name="Evaluation"                            value="Evaluation"/>
+		<text name="Transactions"                          value="Transactions"/>
+		<text name="StaffTimeRubric"                       value="Staff Time Rubric"/>
+
+
+		<!--TERFİ TALEP İŞLEMLERİ-->
+
+		<text name="pages.requestforpromotion"                        value="Promotion Request"/>
+		<text name="items.requestforpromotion.create.menu.view"       value="Create Promotion Request View"/>
+		<text name="items.requestforpromotion.search.menu.view"       value="Promotion Request Search Display"/>
+		<text name="items.requestforpromotion.report.menu.view"       value="Promotion Request Report View"/>
+		<text name="items.requestforpromotion.report.to.evaluate"     value="Evaluate"/>
+
+
+		<text name="pages.damagecompensation"                  value="Damage Compensation"/>
+		<text name="items.damagecompensation.menu.view"        value="Menu View"/>
+		<text name="items.damagecompensation.form.view"        value="Damage Compensation Form"/>
+		<text name="items.damagecompensation.list.view"        value="Damage Compensation List Form"/>
+		<text name="items.damagecompensation.hierarchy.view"   value="Damage Compensation Hierarchy Form"/>
+		<text name="items.damagecompensation.approval.btn"         value="Approval Send "/>
+		<text name="items.damagecompensation.approvalsend.btn"     value="Approval"/>
+
+
+
+
+
+
+
+
+
+
+
+		<!--sayfa kelimeler-->
+		<text name="DamageCompensationForm" value="Damage Compensation Form" />
+		<text name="CompensationInformation" value="Compensation Information" />
+		<text name="Evalution" value="Evalution" />
+		<text name="History" value="History" />
+		<text name="CompensationNumber" value="Compensation Number" />
+		<text name="CompensationStatus" value="Compensation Status" />
+		<text name="Questioning" value="Questioning" />
+		<text name="CargoTrackingNumber" value="Cargo Tracking Number" />
+		<text name="Know" value="Know" />
+		<text name="UnKnow" value="UnKnow" />
+		<text name="Bring" value="Bring" />
+		<text name="ShipmentInformation" value="Shipment Information" />
+		<text name="DocumentationHistory" value="Documentation History" />
+		<text name="DocumentationSerialNumber" value="Serial Number" />
+		<text name="SenderCode" value="Sender Code" />
+		<text name="SenderTitle" value="Sender Title" />
+		<text name="BuyerCode" value="Buyer Code" />
+		<text name="BuyerTitle" value="Buyer Title" />
+		<text name="ExitBranchName" value="Exit Branch Name" />
+		<text name="ArrivalBranchName" value="Arrival Branch Name" />
+		<text name="CargoTyp" value="Cargo Typ" />
+		<text name="PiecesQuantity" value="Pieces Quantity" />
+		<text name="CompensationRequestDate" value="Request Date" />
+		<text name="CompensationType" value="Compensation Type" />
+		<text name="Damage" value="Damage" />
+		<text name="Loss" value="Loss" />
+		<text name="LateDelivery" value="Late Delivery" />
+		<text name="CustomerSatisfaction" value="Customer Satisfaction" />
+		<text name="CompensationCustomer" value="Compensation Customer" />
+		<text name="SenderCustomer" value="Sender Customer" />
+		<text name="BuyerCustomer" value="Buyer Customeri" />
+		<text name="DifferentCustomer" value="Different Customer" />
+		<text name="CustomerPayableType" value="Customer Payable Type" />
+		<text name="Individual" value="Individual" />
+		<text name="Institutional" value="Institutional" />
+		<text name="IdentityNo" value="Identity No" />
+		<text name="TaxNo" value="Tax No" />
+		<text name="PaymentUnitBranchs" value="Payment Unit Branchs" />
+		<text name="RequestedAmount" value="Requested Amount" />
+		<text name="ProcessOwnerRegion" value="Process Owner Region" />
+		<text name="InformationSms" value="Information(Sms)" />
+		<text name="InformationEmail" value="Information(Email)" />
+		<text name="CompensationFiles" value="Compensation Files" />
+		<text name="CompensationPetition" value="Compensation Petition" />
+		<text name="Invoice" value="Invoice" />
+		<text name="DispatchWaybill" value="Dispatch Waybill" />
+		<text name="IdentityOrTaxNo" value="Identity Or TaxNo" />
+		<text name="CompensationReason" value="Compensation Reason" />
+		<text name="LocationOfCargo" value="Location Of Cargo" />
+		<text name="IsThereDefectiveUnit" value="Is Ther eDefective Unit" />
+		<text name="ContentesGruop" value="Contentes Gruop" />
+		<text name="Contentes" value="Contentes" />
+		<text name="ProductDescription" value="Product Description" />
+		<text name="AddedUser" value="Added User" />
+		<text name="AreaDescription" value="Area Description" />
+		<text name="GMDescription" value="GM Description" />
+		<text name="CompensationPaymentStatus" value="Payment Status" />
+		<text name="Payable" value="Payable" />
+		<text name="WillNotBePaid" value="WillNotBePaid" />
+		<text name="ADifferentAmountWillBePaid" value="A Different Amount Will Be Paid" />
+		<text name="AmountPaid" value="Amount Paid" />
+		<text name="DamageCompensationEdit" value="Edit" />
+		<text name="DamageCompensationEvalution" value="Evalution" />
+		<text name="DamageCompensationView" value="View" />
+		<text name="Warning" value="Warning" />
+		<text name="ShippingTrackingNumberNotFound" value="Shipping Tracking Number Not Found" />
+		<text name="RegisteredWithCargoCompensationNumber" value="Registered With Cargo Compensation Number" />
+		<text name="CompensationThereIsRegistration" value="No'lu Tazmin No Bulunmaktadır" />
+		<text name="MissingDocumentationWarning" value="There are missing documents in the Damage Compensation Form. The form will be recorded in the status of missing documents. Evaluation cannot be made.
+" />
+		<text name="MissingDocumentationEvalutaionOk" value="Damage compensation recorded. You can evaluate" />
+		<text name="MissingCompensationConfirmation" value="Damage compensation sent for approval" />
+		<text name="NewPage" value="New Form" />
+		<text name="EnterTrackingNumber" value="Enter Tracking Number" />
+		<text name="PleaseCheckTheFileExtension " value="Please Check The File Extension" />
+		<text name="MissingNumber" value="Only numeric values ​​can be entered" />
+		<text name="MissingInputEmpty" value="Please do not leave blank!" />
+		<text name="MissingInputPhone" value="Please enter a valid phone number" />
+		<text name="MissingInputEmail" value="Please enter a valid Email" />
+		<text name="MissingInputCurrency" value="Only monetary values ​​can be entered" />
+		<text name="MissingInputVkno" value="Vkno number cannot be less than or more than 11 characters" />
+		<text name="MissingInputTc" value="TCno number cannot be less than or more than 11 characters" />
+		<text name="AmountRequestedExcludingVAT" value="Amount Requested Excluding VAT" />
+		<text name="SelectDate" value="Select Date" />
+		<text name="NoRecordTracking" value="No Record Found. Tracking Number Incorrect" />
+		<text name="Pleasefillinthecompensationinformationtab" value="Please fill in the compensation information tab" />
+		<text name="MissingInputFile" value="Please check the file extension." />
+		<text name="ApprovalSend" value="Aprroval Send" />
+		<text name="Vote" value="Vote" />
+		<text name="StartDate" value="Start Date" />
+		<text name="FinishDate" value="Finish Date" />
+		<text name="DamageCompensationList" value="Damage Compensation List" />
+		<text name="Information" value="Information" />
+		<text name="FileUpdateOk" value="File Updated" />
+		<text name="DamageFile" value="Damage File" />
+		<text name="FileSave" value="File Save" />
+		<text name="File" value="File" />
+
+
+		<text name="CariInfoCardCreate" value="Current Create" />
+		<text name="CariInfoCard" value="Current Information" />
+		<text name="CariTitle" value="Title" />
+		<text name="City" value="City" />
+		<text name="District" value="District" />
+		<text name="FindAddress" value="Find Address" />
+		<text name="Neighborhood" value="Neighborhood" />
+		<text name="Street" value="Street" />
+		<text name="StreetTwo" value="Street" />
+		<text name="BuildingNumber" value="Building Number" />
+		<text name="BuildingName" value="Building Name" />
+		<text name="Block" value="Block" />
+		<text name="Circle" value="Circle" />
+		<text name="Telephone" value="Telephone" />
+		<text name="Nationality" value="Nationality" />
+
+		<text name="IndividualPerson" value="Individual/Person" />
+		<text name="Individuall" value="Individual" />
+		<text name="Person" value="Person" />
+
+
+
+
+
+		<!--MENÜ İŞLEMLERİ-->
+		<text name="sk.menu.hr"                        value="Human Resources"/>
+		<text name="sk.menu.operations"                value="Operations"/>
+		<text name="sk.menu.settings"                  value="Settings"/>
+
+	</texts>
+</localizationDictionary>

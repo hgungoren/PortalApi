@@ -1,0 +1,45 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <VersionPrefix>1.0.0.0</VersionPrefix>
+    <TargetFramework>net5.0</TargetFramework>
+    <AssetTargetFallback>$(AssetTargetFallback);portable-net45+win8+wp8+wpa81;</AssetTargetFallback>
+    <AssemblyName>Serendip.IK.Application</AssemblyName>
+    <PackageId>Serendip.IK.Application</PackageId>
+    <GenerateAssemblyConfigurationAttribute>false</GenerateAssemblyConfigurationAttribute>
+    <GenerateAssemblyCompanyAttribute>false</GenerateAssemblyCompanyAttribute>
+    <GenerateAssemblyProductAttribute>false</GenerateAssemblyProductAttribute>
+    <RootNamespace>Serendip.IK</RootNamespace>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Activity\**" />
+    <Compile Remove="Ldap\**" />
+    <EmbeddedResource Remove="Activity\**" />
+    <EmbeddedResource Remove="Ldap\**" />
+    <None Remove="Activity\**" />
+    <None Remove="Ldap\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Abp" Version="6.5.0" />
+    <PackageReference Include="Abp.MailKit" Version="6.4.0" />
+    <PackageReference Include="Abp.HangFire.AspNetCore" Version="6.4.0" />
+    <PackageReference Include="MediatR" Version="9.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+    <PackageReference Include="Refit" Version="6.0.38" />
+    <PackageReference Include="Scriban" Version="4.0.1" />
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\shared\SuratKargo.Core\SuratKargo.Core.csproj" />
+    <ProjectReference Include="..\Serendip.IK.Core\Serendip.IK.Core.csproj" />
+    <ProjectReference Include="..\Serendip.IK.EntityFrameworkCore\Serendip.IK.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+</Project>

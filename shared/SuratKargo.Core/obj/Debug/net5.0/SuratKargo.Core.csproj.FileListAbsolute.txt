@@ -1,0 +1,11 @@
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\bin\Debug\net5.0\SuratKargo.Core.deps.json
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\bin\Debug\net5.0\SuratKargo.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\bin\Debug\net5.0\ref\SuratKargo.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\bin\Debug\net5.0\SuratKargo.Core.pdb
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\SuratKargo.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\SuratKargo.Core.AssemblyInfoInputs.cache
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\SuratKargo.Core.AssemblyInfo.cs
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\SuratKargo.Core.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\SuratKargo.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\ref\SuratKargo.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\shared\SuratKargo.Core\obj\Debug\net5.0\SuratKargo.Core.pdb

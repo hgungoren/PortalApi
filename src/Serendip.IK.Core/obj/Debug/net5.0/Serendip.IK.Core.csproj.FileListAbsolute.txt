@@ -1,0 +1,15 @@
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\bin\Debug\net5.0\Serendip.IK.Core.deps.json
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\bin\Debug\net5.0\Serendip.IK.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\bin\Debug\net5.0\ref\Serendip.IK.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\bin\Debug\net5.0\Serendip.IK.Core.pdb
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\bin\Debug\net5.0\SuratKargo.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\bin\Debug\net5.0\SuratKargo.Core.pdb
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.csproj.AssemblyReference.cache
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.AssemblyInfoInputs.cache
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.AssemblyInfo.cs
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.csproj.CoreCompileInputs.cache
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.csproj.CopyComplete
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\ref\Serendip.IK.Core.dll
+C:\Users\huseyin.gungoren\Source\Workspaces\Workspace\SK.Portal.Api\src\Serendip.IK.Core\obj\Debug\net5.0\Serendip.IK.Core.pdb
